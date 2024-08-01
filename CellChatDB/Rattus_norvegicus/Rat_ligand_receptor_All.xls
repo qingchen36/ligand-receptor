@@ -1,0 +1,2565 @@
+interaction_name	pathway_name	ligand	receptor	agonist	antagonist	co_A_receptor	co_I_receptor	evidence	annotation
+Egf_Egfr_Egfr	ERBB	Egf	Egfr_Egfr					KEGG:rno04012	Secreted Signaling
+Tgfa_Egfr_Egfr	ERBB	Tgfa	Egfr_Egfr					KEGG:rno04012	Secreted Signaling
+Areg_Egfr_Egfr	ERBB	Areg	Egfr_Egfr					KEGG:rno04012	Secreted Signaling
+Btc_Egfr_Egfr	ERBB	Btc	Egfr_Egfr					KEGG:rno04012	Secreted Signaling
+Btc_Erbb4_Erbb4	ERBB	Btc	Erbb4_Erbb4					KEGG:rno04012	Secreted Signaling
+Hbegf_Egfr_Egfr	ERBB	Hbegf	Egfr_Egfr					KEGG:rno04012	Secreted Signaling
+Hbegf_Erbb4_Erbb4	ERBB	Hbegf	Erbb4_Erbb4					KEGG:rno04012	Secreted Signaling
+Ereg_Egfr_Egfr	ERBB	Ereg	Egfr_Egfr					KEGG:rno04012	Secreted Signaling
+Ereg_Erbb4_Erbb4	ERBB	Ereg	Erbb4_Erbb4					KEGG:rno04012	Secreted Signaling
+Nrg2_Erbb3_Erbb3	ERBB	Nrg2	Erbb3_Erbb3					KEGG:rno04012	Secreted Signaling
+Nrg2_Erbb4_Erbb4	ERBB	Nrg2	Erbb4_Erbb4					KEGG:rno04012	Secreted Signaling
+Nrg3_Erbb4_Erbb4	ERBB	Nrg3	Erbb4_Erbb4					KEGG:rno04012	Secreted Signaling
+Nrg4_Erbb4_Erbb4	ERBB	Nrg4	Erbb4_Erbb4					KEGG:rno04012	Secreted Signaling
+Cxcl2_Cxcr1		Cxcl2	Cxcr1					KEGG:rno04060	Secreted Signaling
+Cxcl3_Cxcr1		Cxcl3	Cxcr1					KEGG:rno04060	Secreted Signaling
+Cxcl1_Cxcr1		Cxcl1	Cxcr1					KEGG:rno04060	Secreted Signaling
+Cxcl6_Cxcr1		Cxcl6	Cxcr1					KEGG:rno04060	Secreted Signaling
+Cxcl2_Cxcr2		Cxcl2	Cxcr2					KEGG:rno04060	Secreted Signaling
+Cxcl3_Cxcr2		Cxcl3	Cxcr2					KEGG:rno04060	Secreted Signaling
+Cxcl1_Cxcr2		Cxcl1	Cxcr2					KEGG:rno04060	Secreted Signaling
+Cxcl6_Cxcr2		Cxcl6	Cxcr2					KEGG:rno04060	Secreted Signaling
+Ppbp_Cxcr2		Ppbp	Cxcr2					KEGG:rno04060	Secreted Signaling
+Pf4_Cxcr3		Pf4	Cxcr3					KEGG:rno04060	Secreted Signaling
+Cxcl9_Cxcr3		Cxcl9	Cxcr3					KEGG:rno04060	Secreted Signaling
+Cxcl10_Cxcr3		Cxcl10	Cxcr3					KEGG:rno04060	Secreted Signaling
+Cxcl11_Cxcr3		Cxcl11	Cxcr3					KEGG:rno04060	Secreted Signaling
+Cxcl13_Cxcr3		Cxcl13	Cxcr3					KEGG:rno04060	Secreted Signaling
+Cxcl13_Cxcr5		Cxcl13	Cxcr5					KEGG:rno04060	Secreted Signaling
+Cxcl12_Cxcr4		Cxcl12	Cxcr4					KEGG:rno04060	Secreted Signaling
+Cxcl12_Ackr3		Cxcl12	Ackr3					KEGG:rno04060	Secreted Signaling
+Cxcl16_Cxcr6		Cxcl16	Cxcr6					KEGG:rno04060	Secreted Signaling
+Xcl1_Xcr1		Xcl1	Xcr1					KEGG:rno04060	Secreted Signaling
+Cx3cl1_Cx3cr1		Cx3cl1	Cx3cr1					KEGG:rno04060	Secreted Signaling
+Il2_Il2ra_Il2rb_Il2rg		Il2	Il2ra_Il2rb_Il2rg					KEGG:rno04060	Secreted Signaling
+Il2_Il2rg_Il2rb		Il2	Il2rg_Il2rb					KEGG:rno04060	Secreted Signaling
+Il4_Il2rg_Il4r		Il4	Il2rg_Il4r					KEGG:rno04060	Secreted Signaling
+Il7_Il2rg_Il7r		Il7	Il2rg_Il7r					KEGG:rno04060	Secreted Signaling
+Il9_Il2rg_Il9r		Il9	Il2rg_Il9r					KEGG:rno04060	Secreted Signaling
+Il15_Il2rg_Il15ra_Il2rb		Il15	Il2rg_Il15ra_Il2rb					KEGG:rno04060	Secreted Signaling
+Il21_Il2rg_Il21r		Il21	Il2rg_Il21r					KEGG:rno04060	Secreted Signaling
+Tslp_Il7r_Crlf2		Tslp	Il7r_Crlf2					KEGG:rno04060	Secreted Signaling
+Il3_Il3ra_Csf2rb		Il3	Il3ra_Csf2rb					KEGG:rno04060	Secreted Signaling
+Il5_Csf2rb_Il5ra		Il5	Csf2rb_Il5ra					KEGG:rno04060	Secreted Signaling
+Csf2_Csf2rb_Csf2ra		Csf2	Csf2rb_Csf2ra					KEGG:rno04060	Secreted Signaling
+Il4_Il4r		Il4	Il4r					KEGG:rno04060	Secreted Signaling
+Il4_Il13ra1_Il4r		Il4	Il13ra1_Il4r					KEGG:rno04060	Secreted Signaling
+Il4_Il4r_Il13ra2		Il4	Il4r_Il13ra2					KEGG:rno04060	Secreted Signaling
+Il13_Il13ra1_Il4r		Il13	Il13ra1_Il4r					KEGG:rno04060	Secreted Signaling
+Il13_Il4r_Il13ra2		Il13	Il4r_Il13ra2					KEGG:rno04060	Secreted Signaling
+Il13_Il13ra1		Il13	Il13ra1					KEGG:rno04060	Secreted Signaling
+Il13_Il13ra2		Il13	Il13ra2					KEGG:rno04060	Secreted Signaling
+Epo_Epor		Epo	Epor					KEGG:rno04060	Secreted Signaling
+Gh1_Ghr		Gh1	Ghr					KEGG:rno04060	Secreted Signaling
+Prl5a1_Prlr		Prl5a1	Prlr					KEGG:rno04060	Secreted Signaling
+Prl6a1_Prlr		Prl6a1	Prlr					KEGG:rno04060	Secreted Signaling
+Prl_Prlr		Prl	Prlr					KEGG:rno04060	Secreted Signaling
+Thpol1_Mpl		Thpol1	Mpl					KEGG:rno04060	Secreted Signaling
+Csf3_Csf3r		Csf3	Csf3r					KEGG:rno04060	Secreted Signaling
+Lep_Lepr		Lep	Lepr					KEGG:rno04060	Secreted Signaling
+Il6_Il6r_Il6st		Il6	Il6r_Il6st					KEGG:rno04060	Secreted Signaling
+Il11_Il11ra1_Il6st		Il11	Il11ra1_Il6st					KEGG:rno04060	Secreted Signaling
+Il12b_Il12rb1_Il12rb2		Il12b	Il12rb1_Il12rb2					KEGG:rno04060	Secreted Signaling
+Il12a_Il12rb1_Il12rb2		Il12a	Il12rb1_Il12rb2					KEGG:rno04060	Secreted Signaling
+Il23a_Il12rb1_Il23r		Il23a	Il12rb1_Il23r					KEGG:rno04060	Secreted Signaling
+Il27_Il6st		Il27	Il6st					KEGG:rno04060	Secreted Signaling
+Ebi3_Il6st		Ebi3	Il6st					KEGG:rno04060	Secreted Signaling
+Il31_Osmr_Il31ra		Il31	Osmr_Il31ra					KEGG:rno04060	Secreted Signaling
+Clcf1_Lifr_Il6st_Cntfr		Clcf1	Lifr_Il6st_Cntfr					KEGG:rno04060	Secreted Signaling
+Cntf_Lifr_Il6st_Cntfr		Cntf	Lifr_Il6st_Cntfr					KEGG:rno04060	Secreted Signaling
+Ctf1_Lifr_Il6st		Ctf1	Lifr_Il6st					KEGG:rno04060	Secreted Signaling
+Ctf2_Lifr_Il6st		Ctf2	Lifr_Il6st					KEGG:rno04060	Secreted Signaling
+Lif_Il6st_Lifr		Lif	Il6st_Lifr					KEGG:rno04060	Secreted Signaling
+Osm_Il6st_Lifr		Osm	Il6st_Lifr					KEGG:rno04060	Secreted Signaling
+Osm_Osmr_Il6st		Osm	Osmr_Il6st					KEGG:rno04060	Secreted Signaling
+Il10_Il10ra_Il10rb		Il10	Il10ra_Il10rb					KEGG:rno04060	Secreted Signaling
+Il19_Il20ra_Il20rb		Il19	Il20ra_Il20rb					KEGG:rno04060	Secreted Signaling
+Il20_Il20ra_Il20rb		Il20	Il20ra_Il20rb					KEGG:rno04060	Secreted Signaling
+Il20_Il20rb_Il22ra1		Il20	Il20rb_Il22ra1					KEGG:rno04060	Secreted Signaling
+Il24_Il20ra_Il20rb		Il24	Il20ra_Il20rb					KEGG:rno04060	Secreted Signaling
+Il24_Il20rb_Il22ra1		Il24	Il20rb_Il22ra1					KEGG:rno04060	Secreted Signaling
+Il22_Il10rb_Il22ra1		Il22	Il10rb_Il22ra1					KEGG:rno04060	Secreted Signaling
+Ifnl1_Il10rb_Ifnlr1		Ifnl1	Il10rb_Ifnlr1					KEGG:rno04060	Secreted Signaling
+Ifnl3_Il10rb_Ifnlr1		Ifnl3	Il10rb_Ifnlr1					KEGG:rno04060	Secreted Signaling
+Ifna4l1_Ifnar1_Ifnar2		Ifna4l1	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+LOC100912314_Ifnar1_Ifnar2		LOC100912314	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+LOC100912356_Ifnar1_Ifnar2		LOC100912356	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+LOC134487075_Ifnar1_Ifnar2		LOC134487075	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+LOC134487077_Ifnar1_Ifnar2		LOC134487077	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifna4_Ifnar1_Ifnar2		Ifna4	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifna5_Ifnar1_Ifnar2		Ifna5	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifna2_Ifnar1_Ifnar2		Ifna2	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifna16l1_Ifnar1_Ifnar2		Ifna16l1	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifna1l1_Ifnar1_Ifnar2		Ifna1l1	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifna4l2_Ifnar1_Ifnar2		Ifna4l2	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifna1_Ifnar1_Ifnar2		Ifna1	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifnb1_Ifnar1_Ifnar2		Ifnb1	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifnk_Ifnar1_Ifnar2		Ifnk	Ifnar1_Ifnar2					KEGG:rno04060	Secreted Signaling
+Ifng_Ifngr1_Ifngr2		Ifng	Ifngr1_Ifngr2					KEGG:rno04060	Secreted Signaling
+Il1a_Il1r1_Il1rap		Il1a	Il1r1_Il1rap					KEGG:rno04060	Secreted Signaling
+Il1b_Il1r1_Il1rap		Il1b	Il1r1_Il1rap					KEGG:rno04060	Secreted Signaling
+Il1a_Il1r2		Il1a	Il1r2					KEGG:rno04060	Secreted Signaling
+Il1b_Il1r2		Il1b	Il1r2					KEGG:rno04060	Secreted Signaling
+Il1rn_Il1r2		Il1rn	Il1r2					KEGG:rno04060	Secreted Signaling
+Il1rn_Il1r1_Il1rap		Il1rn	Il1r1_Il1rap					KEGG:rno04060	Secreted Signaling
+Il36rn_Il1rl2_Il1rap		Il36rn	Il1rl2_Il1rap					KEGG:rno04060	Secreted Signaling
+Il36a_Il1rl2_Il1rap		Il36a	Il1rl2_Il1rap					KEGG:rno04060	Secreted Signaling
+Il36g_Il1rl2_Il1rap		Il36g	Il1rl2_Il1rap					KEGG:rno04060	Secreted Signaling
+Il1f10_Il1rl2_Il1rap		Il1f10	Il1rl2_Il1rap					KEGG:rno04060	Secreted Signaling
+Il18_Il18rap_Il18r1		Il18	Il18rap_Il18r1					KEGG:rno04060	Secreted Signaling
+Il33_Il1rap_Il1rl1		Il33	Il1rap_Il1rl1					KEGG:rno04060	Secreted Signaling
+Il17a_Il17rc_Il17ra		Il17a	Il17rc_Il17ra					KEGG:rno04060	Secreted Signaling
+Il17f_Il17rc_Il17ra		Il17f	Il17rc_Il17ra					KEGG:rno04060	Secreted Signaling
+Il17b_Il17rb		Il17b	Il17rb					KEGG:rno04060	Secreted Signaling
+Il17c_Il17re		Il17c	Il17re					KEGG:rno04060	Secreted Signaling
+Il25_Il17rb_Il17ra		Il25	Il17rb_Il17ra					KEGG:rno04060	Secreted Signaling
+Il16_Cd4		Il16	Cd4					KEGG:rno04060	Secreted Signaling
+Il34_Csf1r		Il34	Csf1r					KEGG:rno04060	Secreted Signaling
+Csf1_Csf1r		Csf1	Csf1r					KEGG:rno04060	Secreted Signaling
+Tnf_Tnfrsf1a		Tnf	Tnfrsf1a					KEGG:rno04060	Secreted Signaling
+Tnf_Tnfrsf1b		Tnf	Tnfrsf1b					KEGG:rno04060	Secreted Signaling
+Lta_Tnfrsf1a		Lta	Tnfrsf1a					KEGG:rno04060	Secreted Signaling
+Lta_Tnfrsf1b		Lta	Tnfrsf1b					KEGG:rno04060	Secreted Signaling
+Lta_Ltbr		Lta	Ltbr					KEGG:rno04060	Secreted Signaling
+Lta_Tnfrsf14		Lta	Tnfrsf14					KEGG:rno04060	Secreted Signaling
+Ltb_Ltbr		Ltb	Ltbr					KEGG:rno04060	Secreted Signaling
+Tnfsf14_Ltbr		Tnfsf14	Ltbr					KEGG:rno04060	Secreted Signaling
+Tnfsf14_Tnfrsf14		Tnfsf14	Tnfrsf14					KEGG:rno04060	Secreted Signaling
+Faslg_Fas		Faslg	Fas					KEGG:rno04060	Secreted Signaling
+Tnfsf15_Tnfrsf25		Tnfsf15	Tnfrsf25					KEGG:rno04060	Secreted Signaling
+Eda_Edar		Eda	Edar					KEGG:rno04060	Secreted Signaling
+Eda_Eda2r		Eda	Eda2r					KEGG:rno04060	Secreted Signaling
+Ngf_Ngfr		Ngf	Ngfr					KEGG:rno04060	Secreted Signaling
+Tnfsf11_Tnfrsf11b		Tnfsf11	Tnfrsf11b					KEGG:rno04060	Secreted Signaling
+Tnfsf11_Tnfrsf11a		Tnfsf11	Tnfrsf11a					KEGG:rno04060	Secreted Signaling
+Tnfsf12_Tnfrsf12a		Tnfsf12	Tnfrsf12a					KEGG:rno04060	Secreted Signaling
+Cd70_Cd27		Cd70	Cd27					KEGG:rno04060	Secreted Signaling
+Tnfsf8_Tnfrsf8		Tnfsf8	Tnfrsf8					KEGG:rno04060	Secreted Signaling
+Cd40lg_Cd40		Cd40lg	Cd40					KEGG:rno04060	Secreted Signaling
+Tnfsf9_Tnfrsf9		Tnfsf9	Tnfrsf9					KEGG:rno04060	Secreted Signaling
+Tnfsf4_Tnfrsf4		Tnfsf4	Tnfrsf4					KEGG:rno04060	Secreted Signaling
+Tnfsf18_Tnfrsf18		Tnfsf18	Tnfrsf18					KEGG:rno04060	Secreted Signaling
+Tnfsf13_Tnfrsf17		Tnfsf13	Tnfrsf17					KEGG:rno04060	Secreted Signaling
+Tnfsf13_Tnfrsf13b		Tnfsf13	Tnfrsf13b					KEGG:rno04060	Secreted Signaling
+Tgfb1_Tgfbr1_Tgfbr2		Tgfb1	Tgfbr1_Tgfbr2					KEGG:rno04060	Secreted Signaling
+Tgfb2_Tgfbr1_Tgfbr2		Tgfb2	Tgfbr1_Tgfbr2					KEGG:rno04060	Secreted Signaling
+Tgfb3_Tgfbr1_Tgfbr2		Tgfb3	Tgfbr1_Tgfbr2					KEGG:rno04060	Secreted Signaling
+Tgfb3_Acvrl1_Tgfbr2		Tgfb3	Acvrl1_Tgfbr2					KEGG:rno04060	Secreted Signaling
+Gdf15_Tgfbr2		Gdf15	Tgfbr2					KEGG:rno04060	Secreted Signaling
+Gdf2_Acvr2a_Acvrl1		Gdf2	Acvr2a_Acvrl1					KEGG:rno04060	Secreted Signaling
+Gdf2_Bmpr2_Acvrl1		Gdf2	Bmpr2_Acvrl1					KEGG:rno04060	Secreted Signaling
+Bmp10_Acvr2a_Acvrl1		Bmp10	Acvr2a_Acvrl1					KEGG:rno04060	Secreted Signaling
+Bmp10_Bmpr2_Acvrl1		Bmp10	Bmpr2_Acvrl1					KEGG:rno04060	Secreted Signaling
+Inha_Acvr2a		Inha	Acvr2a					KEGG:rno04060	Secreted Signaling
+Inha_Acvr2b		Inha	Acvr2b					KEGG:rno04060	Secreted Signaling
+Bmp3_Acvr2b		Bmp3	Acvr2b					KEGG:rno04060	Secreted Signaling
+Gdf10_Acvr1b_Acvr2a		Gdf10	Acvr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf11_Acvr2a_Tgfbr1		Gdf11	Acvr2a_Tgfbr1					KEGG:rno04060	Secreted Signaling
+Gdf11_Tgfbr1_Acvr2b		Gdf11	Tgfbr1_Acvr2b					KEGG:rno04060	Secreted Signaling
+Gdf11_Acvr1b_Acvr2a		Gdf11	Acvr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf11_Acvr2b_Acvr1b		Gdf11	Acvr2b_Acvr1b					KEGG:rno04060	Secreted Signaling
+Inhba_Acvr1b_Acvr2a		Inhba	Acvr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Inhba_Acvr2b_Acvr1b		Inhba	Acvr2b_Acvr1b					KEGG:rno04060	Secreted Signaling
+Inhbb_Acvr1b_Acvr2a		Inhbb	Acvr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf1_Acvr1b_Acvr2a		Gdf1	Acvr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf3_Acvr1b_Acvr2a		Gdf3	Acvr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Nodal_Acvr1b_Acvr2a		Nodal	Acvr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Inhbb_Acvr2b_Acvr1b		Inhbb	Acvr2b_Acvr1b					KEGG:rno04060	Secreted Signaling
+Gdf1_Acvr2b_Acvr1b		Gdf1	Acvr2b_Acvr1b					KEGG:rno04060	Secreted Signaling
+Gdf3_Acvr2b_Acvr1b		Gdf3	Acvr2b_Acvr1b					KEGG:rno04060	Secreted Signaling
+Nodal_Acvr2b_Acvr1b		Nodal	Acvr2b_Acvr1b					KEGG:rno04060	Secreted Signaling
+Inhbb_Acvr1c_Acvr2a		Inhbb	Acvr1c_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf1_Acvr1c_Acvr2a		Gdf1	Acvr1c_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf3_Acvr1c_Acvr2a		Gdf3	Acvr1c_Acvr2a					KEGG:rno04060	Secreted Signaling
+Nodal_Acvr1c_Acvr2a		Nodal	Acvr1c_Acvr2a					KEGG:rno04060	Secreted Signaling
+Inhbb_Acvr2b_Acvr1c		Inhbb	Acvr2b_Acvr1c					KEGG:rno04060	Secreted Signaling
+Gdf1_Acvr2b_Acvr1c		Gdf1	Acvr2b_Acvr1c					KEGG:rno04060	Secreted Signaling
+Gdf3_Acvr2b_Acvr1c		Gdf3	Acvr2b_Acvr1c					KEGG:rno04060	Secreted Signaling
+Nodal_Acvr2b_Acvr1c		Nodal	Acvr2b_Acvr1c					KEGG:rno04060	Secreted Signaling
+Gdf9_Acvr1b_Bmpr2		Gdf9	Acvr1b_Bmpr2					KEGG:rno04060	Secreted Signaling
+Amh_Acvr1_Amhr2		Amh	Acvr1_Amhr2					KEGG:rno04060	Secreted Signaling
+Amh_Bmpr1a_Amhr2		Amh	Bmpr1a_Amhr2					KEGG:rno04060	Secreted Signaling
+Mstn_Tgfbr1_Acvr2b		Mstn	Tgfbr1_Acvr2b					KEGG:rno04060	Secreted Signaling
+Mstn_Acvr2b_Acvr1b		Mstn	Acvr2b_Acvr1b					KEGG:rno04060	Secreted Signaling
+Ccl1_Ccr8		Ccl1	Ccr8					KEGG:rno04060	Secreted Signaling
+Ccl1_Ackr4		Ccl1	Ackr4					KEGG:rno04060	Secreted Signaling
+Ccl25_Ccr9		Ccl25	Ccr9					KEGG:rno04060	Secreted Signaling
+Ccl25_Ackr4		Ccl25	Ackr4					KEGG:rno04060	Secreted Signaling
+Ccl19_Ackr4		Ccl19	Ackr4					KEGG:rno04060	Secreted Signaling
+Ccl19_Ccr7		Ccl19	Ccr7					KEGG:rno04060	Secreted Signaling
+Ccl21_Ackr4		Ccl21	Ackr4					KEGG:rno04060	Secreted Signaling
+Ccl21_Ccr7		Ccl21	Ccr7					KEGG:rno04060	Secreted Signaling
+Ccl3_Ccr5		Ccl3	Ccr5					KEGG:rno04060	Secreted Signaling
+Ccl4_Ccr5		Ccl4	Ccr5					KEGG:rno04060	Secreted Signaling
+Ccl17_Ccr4		Ccl17	Ccr4					KEGG:rno04060	Secreted Signaling
+Ccl22_Ccr4		Ccl22	Ccr4					KEGG:rno04060	Secreted Signaling
+Ccl5_Ccr4		Ccl5	Ccr4					KEGG:rno04060	Secreted Signaling
+Ccl5_Ccr5		Ccl5	Ccr5					KEGG:rno04060	Secreted Signaling
+Ccl5_Ccr3		Ccl5	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl5_Ccr1l1		Ccl5	Ccr1l1					KEGG:rno04060	Secreted Signaling
+Ccl5_Ccr1		Ccl5	Ccr1					KEGG:rno04060	Secreted Signaling
+Ccl3_Ccr1l1		Ccl3	Ccr1l1					KEGG:rno04060	Secreted Signaling
+Ccl3_Ccr1		Ccl3	Ccr1					KEGG:rno04060	Secreted Signaling
+Ccl9_Ccr1l1		Ccl9	Ccr1l1					KEGG:rno04060	Secreted Signaling
+Ccl9_Ccr1		Ccl9	Ccr1					KEGG:rno04060	Secreted Signaling
+Ccl6_Ccr1l1		Ccl6	Ccr1l1					KEGG:rno04060	Secreted Signaling
+Ccl6_Ccr1		Ccl6	Ccr1					KEGG:rno04060	Secreted Signaling
+Ccl6_Ccr3		Ccl6	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl6_Ccr2		Ccl6	Ccr2					KEGG:rno04060	Secreted Signaling
+Ccl7_Ccr1l1		Ccl7	Ccr1l1					KEGG:rno04060	Secreted Signaling
+Ccl7_Ccr1		Ccl7	Ccr1					KEGG:rno04060	Secreted Signaling
+Ccl7_Ccr3		Ccl7	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl7_Ccr2		Ccl7	Ccr2					KEGG:rno04060	Secreted Signaling
+Ccl2_Ccr2		Ccl2	Ccr2					KEGG:rno04060	Secreted Signaling
+Ccl12_Ccr2		Ccl12	Ccr2					KEGG:rno04060	Secreted Signaling
+Ccl11_Ccr3		Ccl11	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl24_Ccr3		Ccl24	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl26_Ccr3		Ccl26	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl27_Ccr2		Ccl27	Ccr2					KEGG:rno04060	Secreted Signaling
+Ccl27_Ccr3		Ccl27	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl27_Ccr10		Ccl27	Ccr10					KEGG:rno04060	Secreted Signaling
+Ccl28_Ccr3		Ccl28	Ccr3					KEGG:rno04060	Secreted Signaling
+Ccl28_Ccr10		Ccl28	Ccr10					KEGG:rno04060	Secreted Signaling
+Ccl20_Ccr6		Ccl20	Ccr6					KEGG:rno04060	Secreted Signaling
+Bmp2_Acvr2a_Bmpr1a		Bmp2	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp2_Acvr2b_Bmpr1a		Bmp2	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp2_Bmpr2_Bmpr1a		Bmp2	Bmpr2_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp2_Bmpr1b_Acvr2a		Bmp2	Bmpr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Bmp2_Bmpr1b_Acvr2b		Bmp2	Bmpr1b_Acvr2b					KEGG:rno04060	Secreted Signaling
+Bmp2_Bmpr1b_Bmpr2		Bmp2	Bmpr1b_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp4_Acvr2a_Bmpr1a		Bmp4	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp4_Acvr2b_Bmpr1a		Bmp4	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp4_Bmpr2_Bmpr1a		Bmp4	Bmpr2_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp4_Bmpr1b_Acvr2a		Bmp4	Bmpr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Bmp4_Bmpr1b_Acvr2b		Bmp4	Bmpr1b_Acvr2b					KEGG:rno04060	Secreted Signaling
+Bmp4_Bmpr1b_Bmpr2		Bmp4	Bmpr1b_Bmpr2					KEGG:rno04060	Secreted Signaling
+Gdf5_Acvr2a_Bmpr1a		Gdf5	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf5_Acvr2b_Bmpr1a		Gdf5	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf5_Bmpr2_Bmpr1a		Gdf5	Bmpr2_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf5_Bmpr1b_Acvr2a		Gdf5	Bmpr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf5_Bmpr1b_Acvr2b		Gdf5	Bmpr1b_Acvr2b					KEGG:rno04060	Secreted Signaling
+Gdf5_Bmpr1b_Bmpr2		Gdf5	Bmpr1b_Bmpr2					KEGG:rno04060	Secreted Signaling
+Gdf6_Acvr2a_Bmpr1a		Gdf6	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf6_Acvr2b_Bmpr1a		Gdf6	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf6_Bmpr2_Bmpr1a		Gdf6	Bmpr2_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf6_Bmpr1b_Acvr2a		Gdf6	Bmpr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf6_Bmpr1b_Acvr2b		Gdf6	Bmpr1b_Acvr2b					KEGG:rno04060	Secreted Signaling
+Gdf6_Bmpr1b_Bmpr2		Gdf6	Bmpr1b_Bmpr2					KEGG:rno04060	Secreted Signaling
+Gdf7_Acvr2a_Bmpr1a		Gdf7	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf7_Acvr2b_Bmpr1a		Gdf7	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf7_Bmpr2_Bmpr1a		Gdf7	Bmpr2_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Gdf7_Bmpr1b_Acvr2a		Gdf7	Bmpr1b_Acvr2a					KEGG:rno04060	Secreted Signaling
+Gdf7_Bmpr1b_Acvr2b		Gdf7	Bmpr1b_Acvr2b					KEGG:rno04060	Secreted Signaling
+Gdf7_Bmpr1b_Bmpr2		Gdf7	Bmpr1b_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp15_Bmpr1b_Bmpr2		Bmp15	Bmpr1b_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp5_Acvr1_Acvr2a		Bmp5	Acvr1_Acvr2a					KEGG:rno04060	Secreted Signaling
+Bmp5_Acvr2b_Acvr1		Bmp5	Acvr2b_Acvr1					KEGG:rno04060	Secreted Signaling
+Bmp5_Acvr1_Bmpr2		Bmp5	Acvr1_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp5_Acvr2a_Bmpr1a		Bmp5	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp5_Acvr2b_Bmpr1a		Bmp5	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp5_Bmpr1a_Bmpr2		Bmp5	Bmpr1a_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp5_Acvr2a_Bmpr1b		Bmp5	Acvr2a_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp5_Acvr2b_Bmpr1b		Bmp5	Acvr2b_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp5_Bmpr2_Bmpr1b		Bmp5	Bmpr2_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp6_Acvr1_Acvr2a		Bmp6	Acvr1_Acvr2a					KEGG:rno04060	Secreted Signaling
+Bmp6_Acvr2b_Acvr1		Bmp6	Acvr2b_Acvr1					KEGG:rno04060	Secreted Signaling
+Bmp6_Acvr1_Bmpr2		Bmp6	Acvr1_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp6_Acvr2a_Bmpr1a		Bmp6	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp6_Acvr2b_Bmpr1a		Bmp6	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp6_Bmpr1a_Bmpr2		Bmp6	Bmpr1a_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp6_Acvr2a_Bmpr1b		Bmp6	Acvr2a_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp6_Acvr2b_Bmpr1b		Bmp6	Acvr2b_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp6_Bmpr2_Bmpr1b		Bmp6	Bmpr2_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp7_Acvr1_Acvr2a		Bmp7	Acvr1_Acvr2a					KEGG:rno04060	Secreted Signaling
+Bmp7_Acvr2b_Acvr1		Bmp7	Acvr2b_Acvr1					KEGG:rno04060	Secreted Signaling
+Bmp7_Acvr1_Bmpr2		Bmp7	Acvr1_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp7_Acvr2a_Bmpr1a		Bmp7	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp7_Acvr2b_Bmpr1a		Bmp7	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp7_Bmpr1a_Bmpr2		Bmp7	Bmpr1a_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp7_Acvr2a_Bmpr1b		Bmp7	Acvr2a_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp7_Acvr2b_Bmpr1b		Bmp7	Acvr2b_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp7_Bmpr2_Bmpr1b		Bmp7	Bmpr2_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp8b_Acvr1_Acvr2a		Bmp8b	Acvr1_Acvr2a					KEGG:rno04060	Secreted Signaling
+Bmp8a_Acvr1_Acvr2a		Bmp8a	Acvr1_Acvr2a					KEGG:rno04060	Secreted Signaling
+Bmp8b_Acvr2b_Acvr1		Bmp8b	Acvr2b_Acvr1					KEGG:rno04060	Secreted Signaling
+Bmp8a_Acvr2b_Acvr1		Bmp8a	Acvr2b_Acvr1					KEGG:rno04060	Secreted Signaling
+Bmp8b_Acvr1_Bmpr2		Bmp8b	Acvr1_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp8a_Acvr1_Bmpr2		Bmp8a	Acvr1_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp8b_Acvr2a_Bmpr1a		Bmp8b	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp8a_Acvr2a_Bmpr1a		Bmp8a	Acvr2a_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp8b_Acvr2b_Bmpr1a		Bmp8b	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp8a_Acvr2b_Bmpr1a		Bmp8a	Acvr2b_Bmpr1a					KEGG:rno04060	Secreted Signaling
+Bmp8b_Bmpr1a_Bmpr2		Bmp8b	Bmpr1a_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp8a_Bmpr1a_Bmpr2		Bmp8a	Bmpr1a_Bmpr2					KEGG:rno04060	Secreted Signaling
+Bmp8b_Acvr2a_Bmpr1b		Bmp8b	Acvr2a_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp8a_Acvr2a_Bmpr1b		Bmp8a	Acvr2a_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp8b_Acvr2b_Bmpr1b		Bmp8b	Acvr2b_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp8a_Acvr2b_Bmpr1b		Bmp8a	Acvr2b_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp8b_Bmpr2_Bmpr1b		Bmp8b	Bmpr2_Bmpr1b					KEGG:rno04060	Secreted Signaling
+Bmp8a_Bmpr2_Bmpr1b		Bmp8a	Bmpr2_Bmpr1b					KEGG:rno04060	Secreted Signaling
+LOC102554637_F2rl3		LOC102554637	F2rl3					KEGG:rno04080	Secreted Signaling
+LOC102554637_F2rl1		LOC102554637	F2rl1					KEGG:rno04080	Secreted Signaling
+LOC102554637_F2r		LOC102554637	F2r					KEGG:rno04080	Secreted Signaling
+LOC102554637_F2rl2		LOC102554637	F2rl2					KEGG:rno04080	Secreted Signaling
+Try5_F2rl3		Try5	F2rl3					KEGG:rno04080	Secreted Signaling
+Try5_F2rl1		Try5	F2rl1					KEGG:rno04080	Secreted Signaling
+Try5_F2r		Try5	F2r					KEGG:rno04080	Secreted Signaling
+Try5_F2rl2		Try5	F2rl2					KEGG:rno04080	Secreted Signaling
+Prss1_F2rl3		Prss1	F2rl3					KEGG:rno04080	Secreted Signaling
+Prss1_F2rl1		Prss1	F2rl1					KEGG:rno04080	Secreted Signaling
+Prss1_F2r		Prss1	F2r					KEGG:rno04080	Secreted Signaling
+Prss1_F2rl2		Prss1	F2rl2					KEGG:rno04080	Secreted Signaling
+Prss2_F2rl3		Prss2	F2rl3					KEGG:rno04080	Secreted Signaling
+Prss2_F2rl1		Prss2	F2rl1					KEGG:rno04080	Secreted Signaling
+Prss2_F2r		Prss2	F2r					KEGG:rno04080	Secreted Signaling
+Prss2_F2rl2		Prss2	F2rl2					KEGG:rno04080	Secreted Signaling
+Gzma_F2rl3		Gzma	F2rl3					KEGG:rno04080	Secreted Signaling
+Gzma_F2rl1		Gzma	F2rl1					KEGG:rno04080	Secreted Signaling
+Gzma_F2r		Gzma	F2r					KEGG:rno04080	Secreted Signaling
+Gzma_F2rl2		Gzma	F2rl2					KEGG:rno04080	Secreted Signaling
+Prss3b_F2rl3		Prss3b	F2rl3					KEGG:rno04080	Secreted Signaling
+Prss3b_F2rl1		Prss3b	F2rl1					KEGG:rno04080	Secreted Signaling
+Prss3b_F2r		Prss3b	F2r					KEGG:rno04080	Secreted Signaling
+Prss3b_F2rl2		Prss3b	F2rl2					KEGG:rno04080	Secreted Signaling
+1810009J06Rikl_F2rl3		1810009J06Rikl	F2rl3					KEGG:rno04080	Secreted Signaling
+1810009J06Rikl_F2rl1		1810009J06Rikl	F2rl1					KEGG:rno04080	Secreted Signaling
+1810009J06Rikl_F2r		1810009J06Rikl	F2r					KEGG:rno04080	Secreted Signaling
+1810009J06Rikl_F2rl2		1810009J06Rikl	F2rl2					KEGG:rno04080	Secreted Signaling
+Ctsg_F2rl3		Ctsg	F2rl3					KEGG:rno04080	Secreted Signaling
+Ctsg_F2rl1		Ctsg	F2rl1					KEGG:rno04080	Secreted Signaling
+Ctsg_F2r		Ctsg	F2r					KEGG:rno04080	Secreted Signaling
+Ctsg_F2rl2		Ctsg	F2rl2					KEGG:rno04080	Secreted Signaling
+F2_F2rl3		F2	F2rl3					KEGG:rno04080	Secreted Signaling
+F2_F2rl1		F2	F2rl1					KEGG:rno04080	Secreted Signaling
+F2_F2r		F2	F2r					KEGG:rno04080	Secreted Signaling
+F2_F2rl2		F2	F2rl2					KEGG:rno04080	Secreted Signaling
+Prss3bl1_F2rl3		Prss3bl1	F2rl3					KEGG:rno04080	Secreted Signaling
+Prss3bl1_F2rl1		Prss3bl1	F2rl1					KEGG:rno04080	Secreted Signaling
+Prss3bl1_F2r		Prss3bl1	F2r					KEGG:rno04080	Secreted Signaling
+Prss3bl1_F2rl2		Prss3bl1	F2rl2					KEGG:rno04080	Secreted Signaling
+Prss3_F2rl3		Prss3	F2rl3					KEGG:rno04080	Secreted Signaling
+Prss3_F2rl1		Prss3	F2rl1					KEGG:rno04080	Secreted Signaling
+Prss3_F2r		Prss3	F2r					KEGG:rno04080	Secreted Signaling
+Prss3_F2rl2		Prss3	F2rl2					KEGG:rno04080	Secreted Signaling
+Try10_F2rl3		Try10	F2rl3					KEGG:rno04080	Secreted Signaling
+Try10_F2rl1		Try10	F2rl1					KEGG:rno04080	Secreted Signaling
+Try10_F2r		Try10	F2r					KEGG:rno04080	Secreted Signaling
+Try10_F2rl2		Try10	F2rl2					KEGG:rno04080	Secreted Signaling
+Prss2l1_F2rl3		Prss2l1	F2rl3					KEGG:rno04080	Secreted Signaling
+Prss2l1_F2rl1		Prss2l1	F2rl1					KEGG:rno04080	Secreted Signaling
+Prss2l1_F2r		Prss2l1	F2r					KEGG:rno04080	Secreted Signaling
+Prss2l1_F2rl2		Prss2l1	F2rl2					KEGG:rno04080	Secreted Signaling
+Plg_F2rl3		Plg	F2rl3					KEGG:rno04080	Secreted Signaling
+Plg_F2rl1		Plg	F2rl1					KEGG:rno04080	Secreted Signaling
+Plg_F2r		Plg	F2r					KEGG:rno04080	Secreted Signaling
+Plg_F2rl2		Plg	F2rl2					KEGG:rno04080	Secreted Signaling
+Cga_Fshr		Cga	Fshr					KEGG:rno04080	Secreted Signaling
+Fshb_Fshr		Fshb	Fshr					KEGG:rno04080	Secreted Signaling
+Cga_Lhcgr		Cga	Lhcgr					KEGG:rno04080	Secreted Signaling
+Lhb_Lhcgr		Lhb	Lhcgr					KEGG:rno04080	Secreted Signaling
+Cga_Tshr		Cga	Tshr					KEGG:rno04080	Secreted Signaling
+Tshb_Tshr		Tshb	Tshr					KEGG:rno04080	Secreted Signaling
+Agt_Agtr1a		Agt	Agtr1a					KEGG:rno04080	Secreted Signaling
+Agt_Agtr2		Agt	Agtr2					KEGG:rno04080	Secreted Signaling
+Agt_Agtr1b		Agt	Agtr1b					KEGG:rno04080	Secreted Signaling
+Apln_Aplnr		Apln	Aplnr					KEGG:rno04080	Secreted Signaling
+Grp_Grpr		Grp	Grpr					KEGG:rno04080	Secreted Signaling
+Grp_Nmbr		Grp	Nmbr					KEGG:rno04080	Secreted Signaling
+Grp_Brs3		Grp	Brs3					KEGG:rno04080	Secreted Signaling
+Nmb_Grpr		Nmb	Grpr					KEGG:rno04080	Secreted Signaling
+Nmb_Nmbr		Nmb	Nmbr					KEGG:rno04080	Secreted Signaling
+Nmb_Brs3		Nmb	Brs3					KEGG:rno04080	Secreted Signaling
+Kng2_Bdkrb2		Kng2	Bdkrb2					KEGG:rno04080	Secreted Signaling
+Kng2_Bdkrb1		Kng2	Bdkrb1					KEGG:rno04080	Secreted Signaling
+Kng2l1_Bdkrb2		Kng2l1	Bdkrb2					KEGG:rno04080	Secreted Signaling
+Kng2l1_Bdkrb1		Kng2l1	Bdkrb1					KEGG:rno04080	Secreted Signaling
+Kng1_Bdkrb2		Kng1	Bdkrb2					KEGG:rno04080	Secreted Signaling
+Kng1_Bdkrb1		Kng1	Bdkrb1					KEGG:rno04080	Secreted Signaling
+C3_C3ar1		C3	C3ar1					KEGG:rno04080	Secreted Signaling
+C5_C5ar1		C5	C5ar1					KEGG:rno04080	Secreted Signaling
+Cck_Cckar		Cck	Cckar					KEGG:rno04080	Secreted Signaling
+Cck_Cckbr		Cck	Cckbr					KEGG:rno04080	Secreted Signaling
+Edn1_Ednra		Edn1	Ednra					KEGG:rno04080	Secreted Signaling
+Edn1_Ednrb		Edn1	Ednrb					KEGG:rno04080	Secreted Signaling
+Edn2_Ednra		Edn2	Ednra					KEGG:rno04080	Secreted Signaling
+Edn2_Ednrb		Edn2	Ednrb					KEGG:rno04080	Secreted Signaling
+Edn3_Ednra		Edn3	Ednra					KEGG:rno04080	Secreted Signaling
+Edn3_Ednrb		Edn3	Ednrb					KEGG:rno04080	Secreted Signaling
+Gal_Galr2		Gal	Galr2					KEGG:rno04080	Secreted Signaling
+Gal_Galr3		Gal	Galr3					KEGG:rno04080	Secreted Signaling
+Gal_Galr1		Gal	Galr1					KEGG:rno04080	Secreted Signaling
+Galp_Galr2		Galp	Galr2					KEGG:rno04080	Secreted Signaling
+Galp_Galr3		Galp	Galr3					KEGG:rno04080	Secreted Signaling
+Galp_Galr1		Galp	Galr1					KEGG:rno04080	Secreted Signaling
+Ghrl_Ghsr		Ghrl	Ghsr					KEGG:rno04080	Secreted Signaling
+Kiss1_Kiss1r		Kiss1	Kiss1r					KEGG:rno04080	Secreted Signaling
+Pomc_Mc1r		Pomc	Mc1r					KEGG:rno04080	Secreted Signaling
+Pomc_Mc4r		Pomc	Mc4r					KEGG:rno04080	Secreted Signaling
+Pomc_Mc5r		Pomc	Mc5r					KEGG:rno04080	Secreted Signaling
+Pomc_Mc2r		Pomc	Mc2r					KEGG:rno04080	Secreted Signaling
+Pomc_Mc3r		Pomc	Mc3r					KEGG:rno04080	Secreted Signaling
+NMS_Nmur2		NMS	Nmur2					KEGG:rno04080	Secreted Signaling
+NMS_Nmur1		NMS	Nmur1					KEGG:rno04080	Secreted Signaling
+Nmu_Nmur2		Nmu	Nmur2					KEGG:rno04080	Secreted Signaling
+Nmu_Nmur1		Nmu	Nmur1					KEGG:rno04080	Secreted Signaling
+Npff_Npffr1		Npff	Npffr1					KEGG:rno04080	Secreted Signaling
+Npff_Npffr2		Npff	Npffr2					KEGG:rno04080	Secreted Signaling
+Npvf_Npffr1		Npvf	Npffr1					KEGG:rno04080	Secreted Signaling
+Npvf_Npffr2		Npvf	Npffr2					KEGG:rno04080	Secreted Signaling
+Npy_Gpr83		Npy	Gpr83					KEGG:rno04080	Secreted Signaling
+Npy_Npy5r		Npy	Npy5r					KEGG:rno04080	Secreted Signaling
+Npy_Npy1r		Npy	Npy1r					KEGG:rno04080	Secreted Signaling
+Npy_Npy4r		Npy	Npy4r					KEGG:rno04080	Secreted Signaling
+Npy_Pgr15l		Npy	Pgr15l					KEGG:rno04080	Secreted Signaling
+Npy_Npy2r		Npy	Npy2r					KEGG:rno04080	Secreted Signaling
+Ppy_Gpr83		Ppy	Gpr83					KEGG:rno04080	Secreted Signaling
+Ppy_Npy5r		Ppy	Npy5r					KEGG:rno04080	Secreted Signaling
+Ppy_Npy1r		Ppy	Npy1r					KEGG:rno04080	Secreted Signaling
+Ppy_Npy4r		Ppy	Npy4r					KEGG:rno04080	Secreted Signaling
+Ppy_Pgr15l		Ppy	Pgr15l					KEGG:rno04080	Secreted Signaling
+Ppy_Npy2r		Ppy	Npy2r					KEGG:rno04080	Secreted Signaling
+Pyy_Gpr83		Pyy	Gpr83					KEGG:rno04080	Secreted Signaling
+Pyy_Npy5r		Pyy	Npy5r					KEGG:rno04080	Secreted Signaling
+Pyy_Npy1r		Pyy	Npy1r					KEGG:rno04080	Secreted Signaling
+Pyy_Npy4r		Pyy	Npy4r					KEGG:rno04080	Secreted Signaling
+Pyy_Pgr15l		Pyy	Pgr15l					KEGG:rno04080	Secreted Signaling
+Pyy_Npy2r		Pyy	Npy2r					KEGG:rno04080	Secreted Signaling
+Npb_Npbwr1		Npb	Npbwr1					KEGG:rno04080	Secreted Signaling
+Npw_Npbwr1		Npw	Npbwr1					KEGG:rno04080	Secreted Signaling
+Nts_Ntsr1		Nts	Ntsr1					KEGG:rno04080	Secreted Signaling
+Nts_Ntsr2		Nts	Ntsr2					KEGG:rno04080	Secreted Signaling
+Pomc_Oprd1		Pomc	Oprd1					KEGG:rno04080	Secreted Signaling
+Pomc_Oprm1		Pomc	Oprm1					KEGG:rno04080	Secreted Signaling
+Pomc_Oprl1		Pomc	Oprl1					KEGG:rno04080	Secreted Signaling
+Pomc_Oprk1		Pomc	Oprk1					KEGG:rno04080	Secreted Signaling
+Pnoc_Oprd1		Pnoc	Oprd1					KEGG:rno04080	Secreted Signaling
+Pnoc_Oprm1		Pnoc	Oprm1					KEGG:rno04080	Secreted Signaling
+Pnoc_Oprl1		Pnoc	Oprl1					KEGG:rno04080	Secreted Signaling
+Pnoc_Oprk1		Pnoc	Oprk1					KEGG:rno04080	Secreted Signaling
+Pdyn_Oprd1		Pdyn	Oprd1					KEGG:rno04080	Secreted Signaling
+Pdyn_Oprm1		Pdyn	Oprm1					KEGG:rno04080	Secreted Signaling
+Pdyn_Oprl1		Pdyn	Oprl1					KEGG:rno04080	Secreted Signaling
+Pdyn_Oprk1		Pdyn	Oprk1					KEGG:rno04080	Secreted Signaling
+Penk_Oprd1		Penk	Oprd1					KEGG:rno04080	Secreted Signaling
+Penk_Oprm1		Penk	Oprm1					KEGG:rno04080	Secreted Signaling
+Penk_Oprl1		Penk	Oprl1					KEGG:rno04080	Secreted Signaling
+Penk_Oprk1		Penk	Oprk1					KEGG:rno04080	Secreted Signaling
+Hcrt_Hcrtr1		Hcrt	Hcrtr1					KEGG:rno04080	Secreted Signaling
+Hcrt_Hcrtr2		Hcrt	Hcrtr2					KEGG:rno04080	Secreted Signaling
+Oxt_Oxtr		Oxt	Oxtr					KEGG:rno04080	Secreted Signaling
+Sst_Sstr3		Sst	Sstr3					KEGG:rno04080	Secreted Signaling
+Sst_Sstr1		Sst	Sstr1					KEGG:rno04080	Secreted Signaling
+Sst_Sstr5		Sst	Sstr5					KEGG:rno04080	Secreted Signaling
+Sst_Sstr4		Sst	Sstr4					KEGG:rno04080	Secreted Signaling
+Sst_Sstr2		Sst	Sstr2					KEGG:rno04080	Secreted Signaling
+Cort_Sstr3		Cort	Sstr3					KEGG:rno04080	Secreted Signaling
+Cort_Sstr1		Cort	Sstr1					KEGG:rno04080	Secreted Signaling
+Cort_Sstr5		Cort	Sstr5					KEGG:rno04080	Secreted Signaling
+Cort_Sstr4		Cort	Sstr4					KEGG:rno04080	Secreted Signaling
+Cort_Sstr2		Cort	Sstr2					KEGG:rno04080	Secreted Signaling
+Tac1_Tacr1		Tac1	Tacr1					KEGG:rno04080	Secreted Signaling
+Tac4_Tacr1		Tac4	Tacr1					KEGG:rno04080	Secreted Signaling
+Tac1_Tacr2		Tac1	Tacr2					KEGG:rno04080	Secreted Signaling
+Tac3_Tacr3		Tac3	Tacr3					KEGG:rno04080	Secreted Signaling
+Uts2_Uts2r		Uts2	Uts2r					KEGG:rno04080	Secreted Signaling
+Uts2b_Uts2r		Uts2b	Uts2r					KEGG:rno04080	Secreted Signaling
+Avp_Avpr1b		Avp	Avpr1b					KEGG:rno04080	Secreted Signaling
+Avp_Avpr1a		Avp	Avpr1a					KEGG:rno04080	Secreted Signaling
+Avp_Avpr2		Avp	Avpr2					KEGG:rno04080	Secreted Signaling
+Prlh_Prlhr		Prlh	Prlhr					KEGG:rno04080	Secreted Signaling
+Pmch_Mchr1		Pmch	Mchr1					KEGG:rno04080	Secreted Signaling
+Gnrh1_Gnrhr		Gnrh1	Gnrhr					KEGG:rno04080	Secreted Signaling
+Trh_Mlnr		Trh	Mlnr					KEGG:rno04080	Secreted Signaling
+Trh_Trhr		Trh	Trhr					KEGG:rno04080	Secreted Signaling
+Agt_Mas1		Agt	Mas1					KEGG:rno04080	Secreted Signaling
+Insl5_Rxfp3		Insl5	Rxfp3					KEGG:rno04080	Secreted Signaling
+Insl5_Rxfp1		Insl5	Rxfp1					KEGG:rno04080	Secreted Signaling
+Insl5_Rxfp2		Insl5	Rxfp2					KEGG:rno04080	Secreted Signaling
+Insl3_Rxfp3		Insl3	Rxfp3					KEGG:rno04080	Secreted Signaling
+Insl3_Rxfp1		Insl3	Rxfp1					KEGG:rno04080	Secreted Signaling
+Insl3_Rxfp2		Insl3	Rxfp2					KEGG:rno04080	Secreted Signaling
+Rln1_Rxfp3		Rln1	Rxfp3					KEGG:rno04080	Secreted Signaling
+Rln1_Rxfp1		Rln1	Rxfp1					KEGG:rno04080	Secreted Signaling
+Rln1_Rxfp2		Rln1	Rxfp2					KEGG:rno04080	Secreted Signaling
+Rln3_Rxfp3		Rln3	Rxfp3					KEGG:rno04080	Secreted Signaling
+Rln3_Rxfp1		Rln3	Rxfp1					KEGG:rno04080	Secreted Signaling
+Rln3_Rxfp2		Rln3	Rxfp2					KEGG:rno04080	Secreted Signaling
+Calcb_Calcr		Calcb	Calcr					KEGG:rno04080	Secreted Signaling
+Calcb_Calcrl		Calcb	Calcrl					KEGG:rno04080	Secreted Signaling
+Calca_Calcr		Calca	Calcr					KEGG:rno04080	Secreted Signaling
+Calca_Calcrl		Calca	Calcrl					KEGG:rno04080	Secreted Signaling
+Iapp_Calcr		Iapp	Calcr					KEGG:rno04080	Secreted Signaling
+Iapp_Calcrl		Iapp	Calcrl					KEGG:rno04080	Secreted Signaling
+Adm_Calcr		Adm	Calcr					KEGG:rno04080	Secreted Signaling
+Adm_Calcrl		Adm	Calcrl					KEGG:rno04080	Secreted Signaling
+Adm2_Calcr		Adm2	Calcr					KEGG:rno04080	Secreted Signaling
+Adm2_Calcrl		Adm2	Calcrl					KEGG:rno04080	Secreted Signaling
+Ucn2_Crhr1		Ucn2	Crhr1					KEGG:rno04080	Secreted Signaling
+Ucn2_Crhr2		Ucn2	Crhr2					KEGG:rno04080	Secreted Signaling
+Ucn_Crhr1		Ucn	Crhr1					KEGG:rno04080	Secreted Signaling
+Ucn_Crhr2		Ucn	Crhr2					KEGG:rno04080	Secreted Signaling
+Ucn3_Crhr1		Ucn3	Crhr1					KEGG:rno04080	Secreted Signaling
+Ucn3_Crhr2		Ucn3	Crhr2					KEGG:rno04080	Secreted Signaling
+Crh_Crhr1		Crh	Crhr1					KEGG:rno04080	Secreted Signaling
+Crh_Crhr2		Crh	Crhr2					KEGG:rno04080	Secreted Signaling
+Gip_Gipr		Gip	Gipr					KEGG:rno04080	Secreted Signaling
+Gcg_Gcgr		Gcg	Gcgr					KEGG:rno04080	Secreted Signaling
+Gcg_Glp1r		Gcg	Glp1r					KEGG:rno04080	Secreted Signaling
+Gcg_Glp2r		Gcg	Glp2r					KEGG:rno04080	Secreted Signaling
+Ghrh_Ghrhr		Ghrh	Ghrhr					KEGG:rno04080	Secreted Signaling
+Pth_Pth1r		Pth	Pth1r					KEGG:rno04080	Secreted Signaling
+Pth_Pth2r		Pth	Pth2r					KEGG:rno04080	Secreted Signaling
+Pth2_Pth1r		Pth2	Pth1r					KEGG:rno04080	Secreted Signaling
+Pth2_Pth2r		Pth2	Pth2r					KEGG:rno04080	Secreted Signaling
+Adcyap1_Adcyap1r1		Adcyap1	Adcyap1r1					KEGG:rno04080	Secreted Signaling
+Sct_Sctr		Sct	Sctr					KEGG:rno04080	Secreted Signaling
+Vip_Vipr1		Vip	Vipr1					KEGG:rno04080	Secreted Signaling
+Vip_Vipr2		Vip	Vipr2					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna2		Pate10	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate10_Chrnb3		Pate10	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate10_Chrnb1		Pate10	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna3		Pate10	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna5		Pate10	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate10_Chrnb4		Pate10	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna7		Pate10	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna4		Pate10	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate10_Chrng		Pate10	Chrng					KEGG:rno04080	Secreted Signaling
+Pate10_Chrne		Pate10	Chrne					KEGG:rno04080	Secreted Signaling
+Pate10_Chrnb2		Pate10	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate10_Chrnd		Pate10	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna10		Pate10	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna9		Pate10	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna1		Pate10	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate10_Chrna6		Pate10	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna2		Pate3	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate3_Chrnb3		Pate3	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate3_Chrnb1		Pate3	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna3		Pate3	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna5		Pate3	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate3_Chrnb4		Pate3	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna7		Pate3	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna4		Pate3	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate3_Chrng		Pate3	Chrng					KEGG:rno04080	Secreted Signaling
+Pate3_Chrne		Pate3	Chrne					KEGG:rno04080	Secreted Signaling
+Pate3_Chrnb2		Pate3	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate3_Chrnd		Pate3	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna10		Pate3	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna9		Pate3	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna1		Pate3	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate3_Chrna6		Pate3	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna2		Pate2	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate2_Chrnb3		Pate2	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate2_Chrnb1		Pate2	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna3		Pate2	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna5		Pate2	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate2_Chrnb4		Pate2	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna7		Pate2	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna4		Pate2	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate2_Chrng		Pate2	Chrng					KEGG:rno04080	Secreted Signaling
+Pate2_Chrne		Pate2	Chrne					KEGG:rno04080	Secreted Signaling
+Pate2_Chrnb2		Pate2	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate2_Chrnd		Pate2	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna10		Pate2	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna9		Pate2	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna1		Pate2	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate2_Chrna6		Pate2	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna2		Pate1	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate1_Chrnb3		Pate1	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate1_Chrnb1		Pate1	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna3		Pate1	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna5		Pate1	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate1_Chrnb4		Pate1	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna7		Pate1	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna4		Pate1	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate1_Chrng		Pate1	Chrng					KEGG:rno04080	Secreted Signaling
+Pate1_Chrne		Pate1	Chrne					KEGG:rno04080	Secreted Signaling
+Pate1_Chrnb2		Pate1	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate1_Chrnd		Pate1	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna10		Pate1	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna9		Pate1	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna1		Pate1	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate1_Chrna6		Pate1	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna2		Pate6l	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrnb3		Pate6l	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrnb1		Pate6l	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna3		Pate6l	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna5		Pate6l	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrnb4		Pate6l	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna7		Pate6l	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna4		Pate6l	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrng		Pate6l	Chrng					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrne		Pate6l	Chrne					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrnb2		Pate6l	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrnd		Pate6l	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna10		Pate6l	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna9		Pate6l	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna1		Pate6l	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate6l_Chrna6		Pate6l	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna2		Pate5	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate5_Chrnb3		Pate5	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate5_Chrnb1		Pate5	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna3		Pate5	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna5		Pate5	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate5_Chrnb4		Pate5	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna7		Pate5	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna4		Pate5	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate5_Chrng		Pate5	Chrng					KEGG:rno04080	Secreted Signaling
+Pate5_Chrne		Pate5	Chrne					KEGG:rno04080	Secreted Signaling
+Pate5_Chrnb2		Pate5	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate5_Chrnd		Pate5	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna10		Pate5	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna9		Pate5	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna1		Pate5	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate5_Chrna6		Pate5	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna2		Pate-f	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrnb3		Pate-f	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrnb1		Pate-f	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna3		Pate-f	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna5		Pate-f	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrnb4		Pate-f	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna7		Pate-f	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna4		Pate-f	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrng		Pate-f	Chrng					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrne		Pate-f	Chrne					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrnb2		Pate-f	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrnd		Pate-f	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna10		Pate-f	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna9		Pate-f	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna1		Pate-f	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate-f_Chrna6		Pate-f	Chrna6					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna2		LOC103693040	Chrna2					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrnb3		LOC103693040	Chrnb3					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrnb1		LOC103693040	Chrnb1					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna3		LOC103693040	Chrna3					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna5		LOC103693040	Chrna5					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrnb4		LOC103693040	Chrnb4					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna7		LOC103693040	Chrna7					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna4		LOC103693040	Chrna4					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrng		LOC103693040	Chrng					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrne		LOC103693040	Chrne					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrnb2		LOC103693040	Chrnb2					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrnd		LOC103693040	Chrnd					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna10		LOC103693040	Chrna10					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna9		LOC103693040	Chrna9					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna1		LOC103693040	Chrna1					KEGG:rno04080	Secreted Signaling
+LOC103693040_Chrna6		LOC103693040	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna2		Pate4b	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrnb3		Pate4b	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrnb1		Pate4b	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna3		Pate4b	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna5		Pate4b	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrnb4		Pate4b	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna7		Pate4b	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna4		Pate4b	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrng		Pate4b	Chrng					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrne		Pate4b	Chrne					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrnb2		Pate4b	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrnd		Pate4b	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna10		Pate4b	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna9		Pate4b	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna1		Pate4b	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate4b_Chrna6		Pate4b	Chrna6					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna2		Slurp1	Chrna2					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrnb3		Slurp1	Chrnb3					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrnb1		Slurp1	Chrnb1					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna3		Slurp1	Chrna3					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna5		Slurp1	Chrna5					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrnb4		Slurp1	Chrnb4					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna7		Slurp1	Chrna7					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna4		Slurp1	Chrna4					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrng		Slurp1	Chrng					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrne		Slurp1	Chrne					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrnb2		Slurp1	Chrnb2					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrnd		Slurp1	Chrnd					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna10		Slurp1	Chrna10					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna9		Slurp1	Chrna9					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna1		Slurp1	Chrna1					KEGG:rno04080	Secreted Signaling
+Slurp1_Chrna6		Slurp1	Chrna6					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna2		Lynx1	Chrna2					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrnb3		Lynx1	Chrnb3					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrnb1		Lynx1	Chrnb1					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna3		Lynx1	Chrna3					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna5		Lynx1	Chrna5					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrnb4		Lynx1	Chrnb4					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna7		Lynx1	Chrna7					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna4		Lynx1	Chrna4					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrng		Lynx1	Chrng					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrne		Lynx1	Chrne					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrnb2		Lynx1	Chrnb2					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrnd		Lynx1	Chrnd					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna10		Lynx1	Chrna10					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna9		Lynx1	Chrna9					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna1		Lynx1	Chrna1					KEGG:rno04080	Secreted Signaling
+Lynx1_Chrna6		Lynx1	Chrna6					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna2		Slurp2	Chrna2					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrnb3		Slurp2	Chrnb3					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrnb1		Slurp2	Chrnb1					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna3		Slurp2	Chrna3					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna5		Slurp2	Chrna5					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrnb4		Slurp2	Chrnb4					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna7		Slurp2	Chrna7					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna4		Slurp2	Chrna4					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrng		Slurp2	Chrng					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrne		Slurp2	Chrne					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrnb2		Slurp2	Chrnb2					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrnd		Slurp2	Chrnd					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna10		Slurp2	Chrna10					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna9		Slurp2	Chrna9					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna1		Slurp2	Chrna1					KEGG:rno04080	Secreted Signaling
+Slurp2_Chrna6		Slurp2	Chrna6					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna2		Lypd6b	Chrna2					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrnb3		Lypd6b	Chrnb3					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrnb1		Lypd6b	Chrnb1					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna3		Lypd6b	Chrna3					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna5		Lypd6b	Chrna5					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrnb4		Lypd6b	Chrnb4					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna7		Lypd6b	Chrna7					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna4		Lypd6b	Chrna4					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrng		Lypd6b	Chrng					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrne		Lypd6b	Chrne					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrnb2		Lypd6b	Chrnb2					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrnd		Lypd6b	Chrnd					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna10		Lypd6b	Chrna10					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna9		Lypd6b	Chrna9					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna1		Lypd6b	Chrna1					KEGG:rno04080	Secreted Signaling
+Lypd6b_Chrna6		Lypd6b	Chrna6					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna2		Pate7	Chrna2					KEGG:rno04080	Secreted Signaling
+Pate7_Chrnb3		Pate7	Chrnb3					KEGG:rno04080	Secreted Signaling
+Pate7_Chrnb1		Pate7	Chrnb1					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna3		Pate7	Chrna3					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna5		Pate7	Chrna5					KEGG:rno04080	Secreted Signaling
+Pate7_Chrnb4		Pate7	Chrnb4					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna7		Pate7	Chrna7					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna4		Pate7	Chrna4					KEGG:rno04080	Secreted Signaling
+Pate7_Chrng		Pate7	Chrng					KEGG:rno04080	Secreted Signaling
+Pate7_Chrne		Pate7	Chrne					KEGG:rno04080	Secreted Signaling
+Pate7_Chrnb2		Pate7	Chrnb2					KEGG:rno04080	Secreted Signaling
+Pate7_Chrnd		Pate7	Chrnd					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna10		Pate7	Chrna10					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna9		Pate7	Chrna9					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna1		Pate7	Chrna1					KEGG:rno04080	Secreted Signaling
+Pate7_Chrna6		Pate7	Chrna6					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna2		Lypd6	Chrna2					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrnb3		Lypd6	Chrnb3					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrnb1		Lypd6	Chrnb1					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna3		Lypd6	Chrna3					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna5		Lypd6	Chrna5					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrnb4		Lypd6	Chrnb4					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna7		Lypd6	Chrna7					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna4		Lypd6	Chrna4					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrng		Lypd6	Chrng					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrne		Lypd6	Chrne					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrnb2		Lypd6	Chrnb2					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrnd		Lypd6	Chrnd					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna10		Lypd6	Chrna10					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna9		Lypd6	Chrna9					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna1		Lypd6	Chrna1					KEGG:rno04080	Secreted Signaling
+Lypd6_Chrna6		Lypd6	Chrna6					KEGG:rno04080	Secreted Signaling
+Apela_Aplnr		Apela	Aplnr					KEGG:rno04080	Secreted Signaling
+Gpha2_Tshr		Gpha2	Tshr					KEGG:rno04080	Secreted Signaling
+Gphb5_Tshr		Gphb5	Tshr					KEGG:rno04080	Secreted Signaling
+Vgf_C3ar1		Vgf	C3ar1					KEGG:rno04080	Secreted Signaling
+Spx_Galr2		Spx	Galr2					KEGG:rno04080	Secreted Signaling
+Spx_Galr3		Spx	Galr3					KEGG:rno04080	Secreted Signaling
+Spx_Galr1		Spx	Galr1					KEGG:rno04080	Secreted Signaling
+Qrfp_Qrfpr		Qrfp	Qrfpr					KEGG:rno04080	Secreted Signaling
+Qrfp_Qrfprl		Qrfp	Qrfprl					KEGG:rno04080	Secreted Signaling
+Nps_Npsr1		Nps	Npsr1					KEGG:rno04080	Secreted Signaling
+Rspo1_Lgr4		Rspo1	Lgr4					KEGG:rno04310	Secreted Signaling
+Rspo1_Lgr5		Rspo1	Lgr5					KEGG:rno04310	Secreted Signaling
+Rspo1_Lgr6		Rspo1	Lgr6					KEGG:rno04310	Secreted Signaling
+Rspo3_Lgr4		Rspo3	Lgr4					KEGG:rno04310	Secreted Signaling
+Rspo3_Lgr5		Rspo3	Lgr5					KEGG:rno04310	Secreted Signaling
+Rspo3_Lgr6		Rspo3	Lgr6					KEGG:rno04310	Secreted Signaling
+Rspo4_Lgr4		Rspo4	Lgr4					KEGG:rno04310	Secreted Signaling
+Rspo4_Lgr5		Rspo4	Lgr5					KEGG:rno04310	Secreted Signaling
+Rspo4_Lgr6		Rspo4	Lgr6					KEGG:rno04310	Secreted Signaling
+Rspo2_Lgr4		Rspo2	Lgr4					KEGG:rno04310	Secreted Signaling
+Rspo2_Lgr5		Rspo2	Lgr5					KEGG:rno04310	Secreted Signaling
+Rspo2_Lgr6		Rspo2	Lgr6					KEGG:rno04310	Secreted Signaling
+Wnt2_Lrp5	WNT	Wnt2	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt2_Lrp6	WNT	Wnt2	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt7a_Lrp5	WNT	Wnt7a	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt7a_Lrp6	WNT	Wnt7a	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt2b_Lrp5	WNT	Wnt2b	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt2b_Lrp6	WNT	Wnt2b	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt11_Lrp5	WNT	Wnt11	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt11_Lrp6	WNT	Wnt11	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt1_Lrp5	WNT	Wnt1	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt1_Lrp6	WNT	Wnt1	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt3_Lrp5	WNT	Wnt3	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt3_Lrp6	WNT	Wnt3	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt5b_Lrp5	WNT	Wnt5b	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt5b_Lrp6	WNT	Wnt5b	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt9a_Lrp5	WNT	Wnt9a	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt9a_Lrp6	WNT	Wnt9a	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt8a_Lrp5	WNT	Wnt8a	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt8a_Lrp6	WNT	Wnt8a	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt8b_Lrp5	WNT	Wnt8b	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt8b_Lrp6	WNT	Wnt8b	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt3a_Lrp5	WNT	Wnt3a	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt3a_Lrp6	WNT	Wnt3a	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt9b_Lrp5	WNT	Wnt9b	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt9b_Lrp6	WNT	Wnt9b	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt7b_Lrp5	WNT	Wnt7b	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt7b_Lrp6	WNT	Wnt7b	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt10b_Lrp5	WNT	Wnt10b	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt10b_Lrp6	WNT	Wnt10b	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt6_Lrp5	WNT	Wnt6	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt6_Lrp6	WNT	Wnt6	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt10a_Lrp5	WNT	Wnt10a	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt10a_Lrp6	WNT	Wnt10a	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt16_Lrp5	WNT	Wnt16	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt16_Lrp6	WNT	Wnt16	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt5a_Lrp5	WNT	Wnt5a	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt5a_Lrp6	WNT	Wnt5a	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt4_Lrp5	WNT	Wnt4	Lrp5					KEGG:rno04310	Secreted Signaling
+Wnt4_Lrp6	WNT	Wnt4	Lrp6					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd7	WNT	Wnt2	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd9	WNT	Wnt2	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd3	WNT	Wnt2	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd6	WNT	Wnt2	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd5	WNT	Wnt2	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd10	WNT	Wnt2	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd8	WNT	Wnt2	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd1	WNT	Wnt2	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd2	WNT	Wnt2	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt2_Fzd4	WNT	Wnt2	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd7	WNT	Wnt7a	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd9	WNT	Wnt7a	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd3	WNT	Wnt7a	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd6	WNT	Wnt7a	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd5	WNT	Wnt7a	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd10	WNT	Wnt7a	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd8	WNT	Wnt7a	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd1	WNT	Wnt7a	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd2	WNT	Wnt7a	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt7a_Fzd4	WNT	Wnt7a	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd7	WNT	Wnt2b	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd9	WNT	Wnt2b	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd3	WNT	Wnt2b	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd6	WNT	Wnt2b	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd5	WNT	Wnt2b	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd10	WNT	Wnt2b	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd8	WNT	Wnt2b	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd1	WNT	Wnt2b	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd2	WNT	Wnt2b	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt2b_Fzd4	WNT	Wnt2b	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd7	WNT	Wnt11	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd9	WNT	Wnt11	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd3	WNT	Wnt11	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd6	WNT	Wnt11	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd5	WNT	Wnt11	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd10	WNT	Wnt11	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd8	WNT	Wnt11	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd1	WNT	Wnt11	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd2	WNT	Wnt11	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt11_Fzd4	WNT	Wnt11	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd7	WNT	Wnt1	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd9	WNT	Wnt1	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd3	WNT	Wnt1	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd6	WNT	Wnt1	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd5	WNT	Wnt1	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd10	WNT	Wnt1	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd8	WNT	Wnt1	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd1	WNT	Wnt1	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd2	WNT	Wnt1	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt1_Fzd4	WNT	Wnt1	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd7	WNT	Wnt3	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd9	WNT	Wnt3	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd3	WNT	Wnt3	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd6	WNT	Wnt3	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd5	WNT	Wnt3	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd10	WNT	Wnt3	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd8	WNT	Wnt3	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd1	WNT	Wnt3	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd2	WNT	Wnt3	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt3_Fzd4	WNT	Wnt3	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd7	WNT	Wnt5b	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd9	WNT	Wnt5b	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd3	WNT	Wnt5b	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd6	WNT	Wnt5b	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd5	WNT	Wnt5b	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd10	WNT	Wnt5b	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd8	WNT	Wnt5b	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd1	WNT	Wnt5b	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd2	WNT	Wnt5b	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt5b_Fzd4	WNT	Wnt5b	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd7	WNT	Wnt9a	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd9	WNT	Wnt9a	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd3	WNT	Wnt9a	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd6	WNT	Wnt9a	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd5	WNT	Wnt9a	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd10	WNT	Wnt9a	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd8	WNT	Wnt9a	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd1	WNT	Wnt9a	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd2	WNT	Wnt9a	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt9a_Fzd4	WNT	Wnt9a	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd7	WNT	Wnt8a	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd9	WNT	Wnt8a	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd3	WNT	Wnt8a	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd6	WNT	Wnt8a	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd5	WNT	Wnt8a	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd10	WNT	Wnt8a	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd8	WNT	Wnt8a	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd1	WNT	Wnt8a	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd2	WNT	Wnt8a	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt8a_Fzd4	WNT	Wnt8a	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd7	WNT	Wnt8b	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd9	WNT	Wnt8b	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd3	WNT	Wnt8b	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd6	WNT	Wnt8b	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd5	WNT	Wnt8b	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd10	WNT	Wnt8b	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd8	WNT	Wnt8b	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd1	WNT	Wnt8b	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd2	WNT	Wnt8b	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt8b_Fzd4	WNT	Wnt8b	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd7	WNT	Wnt3a	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd9	WNT	Wnt3a	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd3	WNT	Wnt3a	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd6	WNT	Wnt3a	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd5	WNT	Wnt3a	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd10	WNT	Wnt3a	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd8	WNT	Wnt3a	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd1	WNT	Wnt3a	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd2	WNT	Wnt3a	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt3a_Fzd4	WNT	Wnt3a	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd7	WNT	Wnt9b	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd9	WNT	Wnt9b	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd3	WNT	Wnt9b	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd6	WNT	Wnt9b	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd5	WNT	Wnt9b	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd10	WNT	Wnt9b	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd8	WNT	Wnt9b	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd1	WNT	Wnt9b	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd2	WNT	Wnt9b	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt9b_Fzd4	WNT	Wnt9b	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd7	WNT	Wnt7b	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd9	WNT	Wnt7b	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd3	WNT	Wnt7b	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd6	WNT	Wnt7b	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd5	WNT	Wnt7b	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd10	WNT	Wnt7b	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd8	WNT	Wnt7b	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd1	WNT	Wnt7b	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd2	WNT	Wnt7b	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt7b_Fzd4	WNT	Wnt7b	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd7	WNT	Wnt10b	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd9	WNT	Wnt10b	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd3	WNT	Wnt10b	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd6	WNT	Wnt10b	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd5	WNT	Wnt10b	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd10	WNT	Wnt10b	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd8	WNT	Wnt10b	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd1	WNT	Wnt10b	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd2	WNT	Wnt10b	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt10b_Fzd4	WNT	Wnt10b	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd7	WNT	Wnt6	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd9	WNT	Wnt6	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd3	WNT	Wnt6	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd6	WNT	Wnt6	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd5	WNT	Wnt6	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd10	WNT	Wnt6	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd8	WNT	Wnt6	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd1	WNT	Wnt6	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd2	WNT	Wnt6	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt6_Fzd4	WNT	Wnt6	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd7	WNT	Wnt10a	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd9	WNT	Wnt10a	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd3	WNT	Wnt10a	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd6	WNT	Wnt10a	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd5	WNT	Wnt10a	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd10	WNT	Wnt10a	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd8	WNT	Wnt10a	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd1	WNT	Wnt10a	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd2	WNT	Wnt10a	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt10a_Fzd4	WNT	Wnt10a	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd7	WNT	Wnt16	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd9	WNT	Wnt16	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd3	WNT	Wnt16	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd6	WNT	Wnt16	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd5	WNT	Wnt16	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd10	WNT	Wnt16	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd8	WNT	Wnt16	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd1	WNT	Wnt16	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd2	WNT	Wnt16	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt16_Fzd4	WNT	Wnt16	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd7	WNT	Wnt5a	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd9	WNT	Wnt5a	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd3	WNT	Wnt5a	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd6	WNT	Wnt5a	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd5	WNT	Wnt5a	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd10	WNT	Wnt5a	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd8	WNT	Wnt5a	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd1	WNT	Wnt5a	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd2	WNT	Wnt5a	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt5a_Fzd4	WNT	Wnt5a	Fzd4					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd7	WNT	Wnt4	Fzd7					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd9	WNT	Wnt4	Fzd9					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd3	WNT	Wnt4	Fzd3					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd6	WNT	Wnt4	Fzd6					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd5	WNT	Wnt4	Fzd5					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd10	WNT	Wnt4	Fzd10					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd8	WNT	Wnt4	Fzd8					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd1	WNT	Wnt4	Fzd1					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd2	WNT	Wnt4	Fzd2					KEGG:rno04310	Secreted Signaling
+Wnt4_Fzd4	WNT	Wnt4	Fzd4					KEGG:rno04310	Secreted Signaling
+Shh_Ptch1	HH	Shh	Ptch1					KEGG:rno04340	Secreted Signaling
+Dhh_Ptch1	HH	Dhh	Ptch1					KEGG:rno04340	Secreted Signaling
+Ihh_Ptch1	HH	Ihh	Ptch1					KEGG:rno04340	Secreted Signaling
+Shh_Lrp2	HH	Shh	Lrp2					KEGG:rno04340	Secreted Signaling
+Shh_Boc	HH	Shh	Boc					KEGG:rno04340	Secreted Signaling
+Shh_Cdon	HH	Shh	Cdon					KEGG:rno04340	Secreted Signaling
+Shh_Gas1	HH	Shh	Gas1					KEGG:rno04340	Secreted Signaling
+Dhh_Lrp2	HH	Dhh	Lrp2					KEGG:rno04340	Secreted Signaling
+Dhh_Boc	HH	Dhh	Boc					KEGG:rno04340	Secreted Signaling
+Dhh_Cdon	HH	Dhh	Cdon					KEGG:rno04340	Secreted Signaling
+Dhh_Gas1	HH	Dhh	Gas1					KEGG:rno04340	Secreted Signaling
+Ihh_Lrp2	HH	Ihh	Lrp2					KEGG:rno04340	Secreted Signaling
+Ihh_Boc	HH	Ihh	Boc					KEGG:rno04340	Secreted Signaling
+Ihh_Cdon	HH	Ihh	Cdon					KEGG:rno04340	Secreted Signaling
+Ihh_Gas1	HH	Ihh	Gas1					KEGG:rno04340	Secreted Signaling
+Bmp4_Bmpr1b	BMP	Bmp4	Bmpr1b					KEGG:rno04350	Secreted Signaling
+Bmp4_Acvr1	BMP	Bmp4	Acvr1					KEGG:rno04350	Secreted Signaling
+Bmp4_Bmpr1a	BMP	Bmp4	Bmpr1a					KEGG:rno04350	Secreted Signaling
+Bmp6_Bmpr1b	BMP	Bmp6	Bmpr1b					KEGG:rno04350	Secreted Signaling
+Bmp6_Acvr1	BMP	Bmp6	Acvr1					KEGG:rno04350	Secreted Signaling
+Bmp6_Bmpr1a	BMP	Bmp6	Bmpr1a					KEGG:rno04350	Secreted Signaling
+Bmp2_Bmpr1b	BMP	Bmp2	Bmpr1b					KEGG:rno04350	Secreted Signaling
+Bmp2_Acvr1	BMP	Bmp2	Acvr1					KEGG:rno04350	Secreted Signaling
+Bmp2_Bmpr1a	BMP	Bmp2	Bmpr1a					KEGG:rno04350	Secreted Signaling
+Inhbb_Bmpr1b	ACTIVIN	Inhbb	Bmpr1b					KEGG:rno04350	Secreted Signaling
+Inhbb_Acvr1	ACTIVIN	Inhbb	Acvr1					KEGG:rno04350	Secreted Signaling
+Inhbb_Bmpr1a	ACTIVIN	Inhbb	Bmpr1a					KEGG:rno04350	Secreted Signaling
+Tf_Tfrc		Tf	Tfrc					KEGG:rno04350	Secreted Signaling
+Inhca_Tfrc		Inhca	Tfrc					KEGG:rno04350	Secreted Signaling
+Gdf7_Bmpr2	BMP	Gdf7	Bmpr2					KEGG:rno04350	Secreted Signaling
+Gdf7_Amhr2	BMP	Gdf7	Amhr2					KEGG:rno04350	Secreted Signaling
+Gdf6_Bmpr2	BMP	Gdf6	Bmpr2					KEGG:rno04350	Secreted Signaling
+Gdf6_Amhr2	BMP	Gdf6	Amhr2					KEGG:rno04350	Secreted Signaling
+Gdf5_Bmpr2	BMP	Gdf5	Bmpr2					KEGG:rno04350	Secreted Signaling
+Gdf5_Amhr2	BMP	Gdf5	Amhr2					KEGG:rno04350	Secreted Signaling
+Bmp4_Bmpr2	BMP	Bmp4	Bmpr2					KEGG:rno04350	Secreted Signaling
+Bmp4_Amhr2	BMP	Bmp4	Amhr2					KEGG:rno04350	Secreted Signaling
+Amh_Bmpr2	BMP	Amh	Bmpr2					KEGG:rno04350	Secreted Signaling
+Amh_Amhr2	BMP	Amh	Amhr2					KEGG:rno04350	Secreted Signaling
+Bmp6_Bmpr2	BMP	Bmp6	Bmpr2					KEGG:rno04350	Secreted Signaling
+Bmp6_Amhr2	BMP	Bmp6	Amhr2					KEGG:rno04350	Secreted Signaling
+Bmp2_Bmpr2	BMP	Bmp2	Bmpr2					KEGG:rno04350	Secreted Signaling
+Bmp2_Amhr2	BMP	Bmp2	Amhr2					KEGG:rno04350	Secreted Signaling
+Bmp5_Bmpr2	BMP	Bmp5	Bmpr2					KEGG:rno04350	Secreted Signaling
+Bmp5_Amhr2	BMP	Bmp5	Amhr2					KEGG:rno04350	Secreted Signaling
+Bmp8b_Bmpr2	BMP	Bmp8b	Bmpr2					KEGG:rno04350	Secreted Signaling
+Bmp8b_Amhr2	BMP	Bmp8b	Amhr2					KEGG:rno04350	Secreted Signaling
+Bmp8a_Bmpr2	BMP	Bmp8a	Bmpr2					KEGG:rno04350	Secreted Signaling
+Bmp8a_Amhr2	BMP	Bmp8a	Amhr2					KEGG:rno04350	Secreted Signaling
+Bmp7_Bmpr2	BMP	Bmp7	Bmpr2					KEGG:rno04350	Secreted Signaling
+Bmp7_Amhr2	BMP	Bmp7	Amhr2					KEGG:rno04350	Secreted Signaling
+Tgfb3_Tgfbr2	TGFB	Tgfb3	Tgfbr2					KEGG:rno04350	Secreted Signaling
+Tgfb1_Tgfbr2	TGFB	Tgfb1	Tgfbr2					KEGG:rno04350	Secreted Signaling
+Tgfb2_Tgfbr2	TGFB	Tgfb2	Tgfbr2					KEGG:rno04350	Secreted Signaling
+Inhbb_Acvr2b	ACTIVIN	Inhbb	Acvr2b					KEGG:rno04350	Secreted Signaling
+Inhbb_Acvr2a	ACTIVIN	Inhbb	Acvr2a					KEGG:rno04350	Secreted Signaling
+Inhba_Acvr2b	ACTIVIN	Inhba	Acvr2b					KEGG:rno04350	Secreted Signaling
+Inhba_Acvr2a	ACTIVIN	Inhba	Acvr2a					KEGG:rno04350	Secreted Signaling
+Inhbc_Acvr2b	ACTIVIN	Inhbc	Acvr2b					KEGG:rno04350	Secreted Signaling
+Inhbc_Acvr2a	ACTIVIN	Inhbc	Acvr2a					KEGG:rno04350	Secreted Signaling
+Inhbe_Acvr2b	ACTIVIN	Inhbe	Acvr2b					KEGG:rno04350	Secreted Signaling
+Inhbe_Acvr2a	ACTIVIN	Inhbe	Acvr2a					KEGG:rno04350	Secreted Signaling
+Nodal_Acvr2b	NODAL	Nodal	Acvr2b					KEGG:rno04350	Secreted Signaling
+Nodal_Acvr2a	NODAL	Nodal	Acvr2a					KEGG:rno04350	Secreted Signaling
+Vegfa_Kdr	VEGF	Vegfa	Kdr					KEGG:rno04370	Secreted Signaling
+Col2a1_Itgb1_Itga1		Col2a1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col4a1_Itgb1_Itga1		Col4a1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col1a1_Itgb1_Itga1		Col1a1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col6a1_Itgb1_Itga1		Col6a1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col9a1_Itgb1_Itga1		Col9a1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col4a2_Itgb1_Itga1		Col4a2	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col6a6_Itgb1_Itga1		Col6a6	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col6a4_Itgb1_Itga1		Col6a4	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col6a2_Itgb1_Itga1		Col6a2	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col9a3_Itgb1_Itga1		Col9a3	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col9a2_Itgb1_Itga1		Col9a2	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col4a3_Itgb1_Itga1		Col4a3	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col4a5_Itgb1_Itga1		Col4a5	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col4a6_Itgb1_Itga1		Col4a6	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col6a3_Itgb1_Itga1		Col6a3	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col6a5_Itgb1_Itga1		Col6a5	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col1a2_Itgb1_Itga1		Col1a2	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lamc1_Itgb1_Itga1		Lamc1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lama5_Itgb1_Itga1		Lama5	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lamc2_Itgb1_Itga1		Lamc2	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lamb2_Itgb1_Itga1		Lamb2	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lamb1_Itgb1_Itga1		Lamb1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lamb3_Itgb1_Itga1		Lamb3	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lama2_Itgb1_Itga1		Lama2	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lama4_Itgb1_Itga1		Lama4	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lamc3_Itgb1_Itga1		Lamc3	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Lama1_Itgb1_Itga1		Lama1	Itgb1_Itga1					KEGG:rno04512	ECM-Receptor
+Col2a1_Itga2_Itgb1		Col2a1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a1_Itga2_Itgb1		Col4a1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col1a1_Itga2_Itgb1		Col1a1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a1_Itga2_Itgb1		Col6a1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a1_Itga2_Itgb1		Col9a1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a2_Itga2_Itgb1		Col4a2	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a6_Itga2_Itgb1		Col6a6	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a4_Itga2_Itgb1		Col6a4	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a2_Itga2_Itgb1		Col6a2	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a3_Itga2_Itgb1		Col9a3	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a2_Itga2_Itgb1		Col9a2	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a3_Itga2_Itgb1		Col4a3	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a5_Itga2_Itgb1		Col4a5	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a6_Itga2_Itgb1		Col4a6	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a3_Itga2_Itgb1		Col6a3	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a5_Itga2_Itgb1		Col6a5	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Col1a2_Itga2_Itgb1		Col1a2	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc1_Itga2_Itgb1		Lamc1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama5_Itga2_Itgb1		Lama5	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc2_Itga2_Itgb1		Lamc2	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamb2_Itga2_Itgb1		Lamb2	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamb1_Itga2_Itgb1		Lamb1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamb3_Itga2_Itgb1		Lamb3	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama2_Itga2_Itgb1		Lama2	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama4_Itga2_Itgb1		Lama4	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc3_Itga2_Itgb1		Lamc3	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama1_Itga2_Itgb1		Lama1	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Chad_Itga2_Itgb1		Chad	Itga2_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc1_Itgb1_Itga3		Lamc1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lama5_Itgb1_Itga3		Lama5	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lamc2_Itgb1_Itga3		Lamc2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lamb2_Itgb1_Itga3		Lamb2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lamb1_Itgb1_Itga3		Lamb1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lamb3_Itgb1_Itga3		Lamb3	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lama2_Itgb1_Itga3		Lama2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lama4_Itgb1_Itga3		Lama4	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lamc3_Itgb1_Itga3		Lamc3	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Lama1_Itgb1_Itga3		Lama1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Reln_Itgb1_Itga3		Reln	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Comp_Itgb1_Itga3		Comp	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Thbs4_Itgb1_Itga3		Thbs4	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Thbs2_Itgb1_Itga3		Thbs2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Thbs1_Itgb1_Itga3		Thbs1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Thbs3_Itgb1_Itga3		Thbs3	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col2a1_Itgb1_Itga3		Col2a1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col4a1_Itgb1_Itga3		Col4a1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col1a1_Itgb1_Itga3		Col1a1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col6a1_Itgb1_Itga3		Col6a1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col9a1_Itgb1_Itga3		Col9a1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col4a2_Itgb1_Itga3		Col4a2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col6a6_Itgb1_Itga3		Col6a6	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col6a4_Itgb1_Itga3		Col6a4	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col6a2_Itgb1_Itga3		Col6a2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col9a3_Itgb1_Itga3		Col9a3	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col9a2_Itgb1_Itga3		Col9a2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col4a3_Itgb1_Itga3		Col4a3	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col4a5_Itgb1_Itga3		Col4a5	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col4a6_Itgb1_Itga3		Col4a6	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col6a3_Itgb1_Itga3		Col6a3	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col6a5_Itgb1_Itga3		Col6a5	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Col1a2_Itgb1_Itga3		Col1a2	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Fn1_Itgb1_Itga3		Fn1	Itgb1_Itga3					KEGG:rno04512	ECM-Receptor
+Fn1_Itgb1_Itga4		Fn1	Itgb1_Itga4					KEGG:rno04512	ECM-Receptor
+Spp1_Itgb1_Itga4		Spp1	Itgb1_Itga4					KEGG:rno04512	ECM-Receptor
+Fn1_Itga5_Itgb1		Fn1	Itga5_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc1_Itgb1_Itga6		Lamc1	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lama5_Itgb1_Itga6		Lama5	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lamc2_Itgb1_Itga6		Lamc2	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lamb2_Itgb1_Itga6		Lamb2	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lamb1_Itgb1_Itga6		Lamb1	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lamb3_Itgb1_Itga6		Lamb3	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lama2_Itgb1_Itga6		Lama2	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lama4_Itgb1_Itga6		Lama4	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lamc3_Itgb1_Itga6		Lamc3	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lama1_Itgb1_Itga6		Lama1	Itgb1_Itga6					KEGG:rno04512	ECM-Receptor
+Lamc1_Itgb1_Itga7		Lamc1	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lama5_Itgb1_Itga7		Lama5	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lamc2_Itgb1_Itga7		Lamc2	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lamb2_Itgb1_Itga7		Lamb2	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lamb1_Itgb1_Itga7		Lamb1	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lamb3_Itgb1_Itga7		Lamb3	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lama2_Itgb1_Itga7		Lama2	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lama4_Itgb1_Itga7		Lama4	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lamc3_Itgb1_Itga7		Lamc3	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Lama1_Itgb1_Itga7		Lama1	Itgb1_Itga7					KEGG:rno04512	ECM-Receptor
+Fn1_Itgb1_Itga8		Fn1	Itgb1_Itga8					KEGG:rno04512	ECM-Receptor
+Vtn_Itgb1_Itga8		Vtn	Itgb1_Itga8					KEGG:rno04512	ECM-Receptor
+Tnc_Itgb1_Itga8		Tnc	Itgb1_Itga8					KEGG:rno04512	ECM-Receptor
+Tnr_Itgb1_Itga8		Tnr	Itgb1_Itga8					KEGG:rno04512	ECM-Receptor
+Tnn_Itgb1_Itga8		Tnn	Itgb1_Itga8					KEGG:rno04512	ECM-Receptor
+Npnt_Fras1_Frem2_Itgb1_Itga8		Npnt_Fras1_Frem2	Itgb1_Itga8					KEGG:rno04512	ECM-Receptor
+Npnt_Fras1_Frem1_Itgb1_Itga8		Npnt_Fras1_Frem1	Itgb1_Itga8					KEGG:rno04512	ECM-Receptor
+Tnc_Itga9_Itgb1		Tnc	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Tnr_Itga9_Itgb1		Tnr	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Tnn_Itga9_Itgb1		Tnn	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Spp1_Itga9_Itgb1		Spp1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col2a1_Itga9_Itgb1		Col2a1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a1_Itga9_Itgb1		Col4a1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col1a1_Itga9_Itgb1		Col1a1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a1_Itga9_Itgb1		Col6a1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a1_Itga9_Itgb1		Col9a1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a2_Itga9_Itgb1		Col4a2	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a6_Itga9_Itgb1		Col6a6	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a4_Itga9_Itgb1		Col6a4	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a2_Itga9_Itgb1		Col6a2	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a3_Itga9_Itgb1		Col9a3	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a2_Itga9_Itgb1		Col9a2	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a3_Itga9_Itgb1		Col4a3	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a5_Itga9_Itgb1		Col4a5	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a6_Itga9_Itgb1		Col4a6	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a3_Itga9_Itgb1		Col6a3	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a5_Itga9_Itgb1		Col6a5	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col1a2_Itga9_Itgb1		Col1a2	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc1_Itga9_Itgb1		Lamc1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama5_Itga9_Itgb1		Lama5	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc2_Itga9_Itgb1		Lamc2	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamb2_Itga9_Itgb1		Lamb2	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamb1_Itga9_Itgb1		Lamb1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamb3_Itga9_Itgb1		Lamb3	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama2_Itga9_Itgb1		Lama2	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama4_Itga9_Itgb1		Lama4	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lamc3_Itga9_Itgb1		Lamc3	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Lama1_Itga9_Itgb1		Lama1	Itga9_Itgb1					KEGG:rno04512	ECM-Receptor
+Col2a1_Itga10_Itgb1		Col2a1	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a1_Itga10_Itgb1		Col4a1	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col1a1_Itga10_Itgb1		Col1a1	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a1_Itga10_Itgb1		Col6a1	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a1_Itga10_Itgb1		Col9a1	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a2_Itga10_Itgb1		Col4a2	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a6_Itga10_Itgb1		Col6a6	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a4_Itga10_Itgb1		Col6a4	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a2_Itga10_Itgb1		Col6a2	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a3_Itga10_Itgb1		Col9a3	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col9a2_Itga10_Itgb1		Col9a2	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a3_Itga10_Itgb1		Col4a3	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a5_Itga10_Itgb1		Col4a5	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col4a6_Itga10_Itgb1		Col4a6	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a3_Itga10_Itgb1		Col6a3	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col6a5_Itga10_Itgb1		Col6a5	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col1a2_Itga10_Itgb1		Col1a2	Itga10_Itgb1					KEGG:rno04512	ECM-Receptor
+Col2a1_Itgb1_Itga11		Col2a1	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col4a1_Itgb1_Itga11		Col4a1	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col1a1_Itgb1_Itga11		Col1a1	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col6a1_Itgb1_Itga11		Col6a1	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col9a1_Itgb1_Itga11		Col9a1	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col4a2_Itgb1_Itga11		Col4a2	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col6a6_Itgb1_Itga11		Col6a6	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col6a4_Itgb1_Itga11		Col6a4	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col6a2_Itgb1_Itga11		Col6a2	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col9a3_Itgb1_Itga11		Col9a3	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col9a2_Itgb1_Itga11		Col9a2	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col4a3_Itgb1_Itga11		Col4a3	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col4a5_Itgb1_Itga11		Col4a5	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col4a6_Itgb1_Itga11		Col4a6	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col6a3_Itgb1_Itga11		Col6a3	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col6a5_Itgb1_Itga11		Col6a5	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Col1a2_Itgb1_Itga11		Col1a2	Itgb1_Itga11					KEGG:rno04512	ECM-Receptor
+Fn1_Itgb1_Itgav		Fn1	Itgb1_Itgav					KEGG:rno04512	ECM-Receptor
+Spp1_Itgb1_Itgav		Spp1	Itgb1_Itgav					KEGG:rno04512	ECM-Receptor
+Vtn_Itgb1_Itgav		Vtn	Itgb1_Itgav					KEGG:rno04512	ECM-Receptor
+Fn1_Itgb7_Itga4		Fn1	Itgb7_Itga4					KEGG:rno04512	ECM-Receptor
+Vtn_Itgav_Itgb3		Vtn	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Fn1_Itgav_Itgb3		Fn1	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Vwf_Itgav_Itgb3		Vwf	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Spp1_Itgav_Itgb3		Spp1	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Tnc_Itgav_Itgb3		Tnc	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Tnr_Itgav_Itgb3		Tnr	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Tnn_Itgav_Itgb3		Tnn	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Ibsp_Itgav_Itgb3		Ibsp	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Comp_Itgav_Itgb3		Comp	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Thbs4_Itgav_Itgb3		Thbs4	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Thbs2_Itgav_Itgb3		Thbs2	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Thbs1_Itgav_Itgb3		Thbs1	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Thbs3_Itgav_Itgb3		Thbs3	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Vtn_Itgb3_Itga2b		Vtn	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Fn1_Itgb3_Itga2b		Fn1	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Vwf_Itgb3_Itga2b		Vwf	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Comp_Itgb3_Itga2b		Comp	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Thbs4_Itgb3_Itga2b		Thbs4	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Thbs2_Itgb3_Itga2b		Thbs2	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Thbs1_Itgb3_Itga2b		Thbs1	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Thbs3_Itgb3_Itga2b		Thbs3	Itgb3_Itga2b					KEGG:rno04512	ECM-Receptor
+Vtn_Itgav_Itgb5		Vtn	Itgav_Itgb5					KEGG:rno04512	ECM-Receptor
+Ibsp_Itgav_Itgb5		Ibsp	Itgav_Itgb5					KEGG:rno04512	ECM-Receptor
+Spp1_Itgav_Itgb5		Spp1	Itgav_Itgb5					KEGG:rno04512	ECM-Receptor
+Fn1_Itgb6_Itgav		Fn1	Itgb6_Itgav					KEGG:rno04512	ECM-Receptor
+Tnc_Itgb6_Itgav		Tnc	Itgb6_Itgav					KEGG:rno04512	ECM-Receptor
+Tnr_Itgb6_Itgav		Tnr	Itgb6_Itgav					KEGG:rno04512	ECM-Receptor
+Tnn_Itgb6_Itgav		Tnn	Itgb6_Itgav					KEGG:rno04512	ECM-Receptor
+Col2a1_Itgav_Itgb8		Col2a1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col4a1_Itgav_Itgb8		Col4a1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col1a1_Itgav_Itgb8		Col1a1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col6a1_Itgav_Itgb8		Col6a1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col9a1_Itgav_Itgb8		Col9a1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col4a2_Itgav_Itgb8		Col4a2	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col6a6_Itgav_Itgb8		Col6a6	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col6a4_Itgav_Itgb8		Col6a4	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col6a2_Itgav_Itgb8		Col6a2	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col9a3_Itgav_Itgb8		Col9a3	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col9a2_Itgav_Itgb8		Col9a2	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col4a3_Itgav_Itgb8		Col4a3	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col4a5_Itgav_Itgb8		Col4a5	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col4a6_Itgav_Itgb8		Col4a6	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col6a3_Itgav_Itgb8		Col6a3	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col6a5_Itgav_Itgb8		Col6a5	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Col1a2_Itgav_Itgb8		Col1a2	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Fn1_Itgav_Itgb8		Fn1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lamc1_Itgav_Itgb8		Lamc1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lama5_Itgav_Itgb8		Lama5	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lamc2_Itgav_Itgb8		Lamc2	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lamb2_Itgav_Itgb8		Lamb2	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lamb1_Itgav_Itgb8		Lamb1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lamb3_Itgav_Itgb8		Lamb3	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lama2_Itgav_Itgb8		Lama2	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lama4_Itgav_Itgb8		Lama4	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lamc3_Itgav_Itgb8		Lamc3	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lama1_Itgav_Itgb8		Lama1	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Vtn_Itgav_Itgb8		Vtn	Itgav_Itgb8					KEGG:rno04512	ECM-Receptor
+Lamc1_Itga6_Itgb4		Lamc1	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lama5_Itga6_Itgb4		Lama5	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lamc2_Itga6_Itgb4		Lamc2	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lamb2_Itga6_Itgb4		Lamb2	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lamb1_Itga6_Itgb4		Lamb1	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lamb3_Itga6_Itgb4		Lamb3	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lama2_Itga6_Itgb4		Lama2	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lama4_Itga6_Itgb4		Lama4	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lamc3_Itga6_Itgb4		Lamc3	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Lama1_Itga6_Itgb4		Lama1	Itga6_Itgb4					KEGG:rno04512	ECM-Receptor
+Col2a1_Cd44		Col2a1	Cd44					KEGG:rno04512	ECM-Receptor
+Col4a1_Cd44		Col4a1	Cd44					KEGG:rno04512	ECM-Receptor
+Col1a1_Cd44		Col1a1	Cd44					KEGG:rno04512	ECM-Receptor
+Col6a1_Cd44		Col6a1	Cd44					KEGG:rno04512	ECM-Receptor
+Col9a1_Cd44		Col9a1	Cd44					KEGG:rno04512	ECM-Receptor
+Col4a2_Cd44		Col4a2	Cd44					KEGG:rno04512	ECM-Receptor
+Col6a6_Cd44		Col6a6	Cd44					KEGG:rno04512	ECM-Receptor
+Col6a4_Cd44		Col6a4	Cd44					KEGG:rno04512	ECM-Receptor
+Col6a2_Cd44		Col6a2	Cd44					KEGG:rno04512	ECM-Receptor
+Col9a3_Cd44		Col9a3	Cd44					KEGG:rno04512	ECM-Receptor
+Col9a2_Cd44		Col9a2	Cd44					KEGG:rno04512	ECM-Receptor
+Col4a3_Cd44		Col4a3	Cd44					KEGG:rno04512	ECM-Receptor
+Col4a5_Cd44		Col4a5	Cd44					KEGG:rno04512	ECM-Receptor
+Col4a6_Cd44		Col4a6	Cd44					KEGG:rno04512	ECM-Receptor
+Col6a3_Cd44		Col6a3	Cd44					KEGG:rno04512	ECM-Receptor
+Col6a5_Cd44		Col6a5	Cd44					KEGG:rno04512	ECM-Receptor
+Col1a2_Cd44		Col1a2	Cd44					KEGG:rno04512	ECM-Receptor
+Fn1_Cd44		Fn1	Cd44					KEGG:rno04512	ECM-Receptor
+Lamc1_Cd44		Lamc1	Cd44					KEGG:rno04512	ECM-Receptor
+Lama5_Cd44		Lama5	Cd44					KEGG:rno04512	ECM-Receptor
+Lamc2_Cd44		Lamc2	Cd44					KEGG:rno04512	ECM-Receptor
+Lamb2_Cd44		Lamb2	Cd44					KEGG:rno04512	ECM-Receptor
+Lamb1_Cd44		Lamb1	Cd44					KEGG:rno04512	ECM-Receptor
+Lamb3_Cd44		Lamb3	Cd44					KEGG:rno04512	ECM-Receptor
+Lama2_Cd44		Lama2	Cd44					KEGG:rno04512	ECM-Receptor
+Lama4_Cd44		Lama4	Cd44					KEGG:rno04512	ECM-Receptor
+Lamc3_Cd44		Lamc3	Cd44					KEGG:rno04512	ECM-Receptor
+Lama1_Cd44		Lama1	Cd44					KEGG:rno04512	ECM-Receptor
+Col2a1_Sdc4		Col2a1	Sdc4					KEGG:rno04512	ECM-Receptor
+Col2a1_Sdc1		Col2a1	Sdc1					KEGG:rno04512	ECM-Receptor
+Col4a1_Sdc4		Col4a1	Sdc4					KEGG:rno04512	ECM-Receptor
+Col4a1_Sdc1		Col4a1	Sdc1					KEGG:rno04512	ECM-Receptor
+Col1a1_Sdc4		Col1a1	Sdc4					KEGG:rno04512	ECM-Receptor
+Col1a1_Sdc1		Col1a1	Sdc1					KEGG:rno04512	ECM-Receptor
+Col6a1_Sdc4		Col6a1	Sdc4					KEGG:rno04512	ECM-Receptor
+Col6a1_Sdc1		Col6a1	Sdc1					KEGG:rno04512	ECM-Receptor
+Col9a1_Sdc4		Col9a1	Sdc4					KEGG:rno04512	ECM-Receptor
+Col9a1_Sdc1		Col9a1	Sdc1					KEGG:rno04512	ECM-Receptor
+Col4a2_Sdc4		Col4a2	Sdc4					KEGG:rno04512	ECM-Receptor
+Col4a2_Sdc1		Col4a2	Sdc1					KEGG:rno04512	ECM-Receptor
+Col6a6_Sdc4		Col6a6	Sdc4					KEGG:rno04512	ECM-Receptor
+Col6a6_Sdc1		Col6a6	Sdc1					KEGG:rno04512	ECM-Receptor
+Col6a4_Sdc4		Col6a4	Sdc4					KEGG:rno04512	ECM-Receptor
+Col6a4_Sdc1		Col6a4	Sdc1					KEGG:rno04512	ECM-Receptor
+Col6a2_Sdc4		Col6a2	Sdc4					KEGG:rno04512	ECM-Receptor
+Col6a2_Sdc1		Col6a2	Sdc1					KEGG:rno04512	ECM-Receptor
+Col9a3_Sdc4		Col9a3	Sdc4					KEGG:rno04512	ECM-Receptor
+Col9a3_Sdc1		Col9a3	Sdc1					KEGG:rno04512	ECM-Receptor
+Col9a2_Sdc4		Col9a2	Sdc4					KEGG:rno04512	ECM-Receptor
+Col9a2_Sdc1		Col9a2	Sdc1					KEGG:rno04512	ECM-Receptor
+Col4a3_Sdc4		Col4a3	Sdc4					KEGG:rno04512	ECM-Receptor
+Col4a3_Sdc1		Col4a3	Sdc1					KEGG:rno04512	ECM-Receptor
+Col4a5_Sdc4		Col4a5	Sdc4					KEGG:rno04512	ECM-Receptor
+Col4a5_Sdc1		Col4a5	Sdc1					KEGG:rno04512	ECM-Receptor
+Col4a6_Sdc4		Col4a6	Sdc4					KEGG:rno04512	ECM-Receptor
+Col4a6_Sdc1		Col4a6	Sdc1					KEGG:rno04512	ECM-Receptor
+Col6a3_Sdc4		Col6a3	Sdc4					KEGG:rno04512	ECM-Receptor
+Col6a3_Sdc1		Col6a3	Sdc1					KEGG:rno04512	ECM-Receptor
+Col6a5_Sdc4		Col6a5	Sdc4					KEGG:rno04512	ECM-Receptor
+Col6a5_Sdc1		Col6a5	Sdc1					KEGG:rno04512	ECM-Receptor
+Col1a2_Sdc4		Col1a2	Sdc4					KEGG:rno04512	ECM-Receptor
+Col1a2_Sdc1		Col1a2	Sdc1					KEGG:rno04512	ECM-Receptor
+Fn1_Sdc4		Fn1	Sdc4					KEGG:rno04512	ECM-Receptor
+Fn1_Sdc1		Fn1	Sdc1					KEGG:rno04512	ECM-Receptor
+Comp_Sdc4		Comp	Sdc4					KEGG:rno04512	ECM-Receptor
+Comp_Sdc1		Comp	Sdc1					KEGG:rno04512	ECM-Receptor
+Thbs4_Sdc4		Thbs4	Sdc4					KEGG:rno04512	ECM-Receptor
+Thbs4_Sdc1		Thbs4	Sdc1					KEGG:rno04512	ECM-Receptor
+Thbs2_Sdc4		Thbs2	Sdc4					KEGG:rno04512	ECM-Receptor
+Thbs2_Sdc1		Thbs2	Sdc1					KEGG:rno04512	ECM-Receptor
+Thbs1_Sdc4		Thbs1	Sdc4					KEGG:rno04512	ECM-Receptor
+Thbs1_Sdc1		Thbs1	Sdc1					KEGG:rno04512	ECM-Receptor
+Thbs3_Sdc4		Thbs3	Sdc4					KEGG:rno04512	ECM-Receptor
+Thbs3_Sdc1		Thbs3	Sdc1					KEGG:rno04512	ECM-Receptor
+Tnc_Sdc4		Tnc	Sdc4					KEGG:rno04512	ECM-Receptor
+Tnc_Sdc1		Tnc	Sdc1					KEGG:rno04512	ECM-Receptor
+Tnr_Sdc4		Tnr	Sdc4					KEGG:rno04512	ECM-Receptor
+Tnr_Sdc1		Tnr	Sdc1					KEGG:rno04512	ECM-Receptor
+Tnn_Sdc4		Tnn	Sdc4					KEGG:rno04512	ECM-Receptor
+Tnn_Sdc1		Tnn	Sdc1					KEGG:rno04512	ECM-Receptor
+Lamc1_Sv2b		Lamc1	Sv2b					KEGG:rno04512	ECM-Receptor
+Lamc1_Sv2a		Lamc1	Sv2a					KEGG:rno04512	ECM-Receptor
+Lamc1_Sv2c		Lamc1	Sv2c					KEGG:rno04512	ECM-Receptor
+Lama5_Sv2b		Lama5	Sv2b					KEGG:rno04512	ECM-Receptor
+Lama5_Sv2a		Lama5	Sv2a					KEGG:rno04512	ECM-Receptor
+Lama5_Sv2c		Lama5	Sv2c					KEGG:rno04512	ECM-Receptor
+Lamc2_Sv2b		Lamc2	Sv2b					KEGG:rno04512	ECM-Receptor
+Lamc2_Sv2a		Lamc2	Sv2a					KEGG:rno04512	ECM-Receptor
+Lamc2_Sv2c		Lamc2	Sv2c					KEGG:rno04512	ECM-Receptor
+Lamb2_Sv2b		Lamb2	Sv2b					KEGG:rno04512	ECM-Receptor
+Lamb2_Sv2a		Lamb2	Sv2a					KEGG:rno04512	ECM-Receptor
+Lamb2_Sv2c		Lamb2	Sv2c					KEGG:rno04512	ECM-Receptor
+Lamb1_Sv2b		Lamb1	Sv2b					KEGG:rno04512	ECM-Receptor
+Lamb1_Sv2a		Lamb1	Sv2a					KEGG:rno04512	ECM-Receptor
+Lamb1_Sv2c		Lamb1	Sv2c					KEGG:rno04512	ECM-Receptor
+Lamb3_Sv2b		Lamb3	Sv2b					KEGG:rno04512	ECM-Receptor
+Lamb3_Sv2a		Lamb3	Sv2a					KEGG:rno04512	ECM-Receptor
+Lamb3_Sv2c		Lamb3	Sv2c					KEGG:rno04512	ECM-Receptor
+Lama2_Sv2b		Lama2	Sv2b					KEGG:rno04512	ECM-Receptor
+Lama2_Sv2a		Lama2	Sv2a					KEGG:rno04512	ECM-Receptor
+Lama2_Sv2c		Lama2	Sv2c					KEGG:rno04512	ECM-Receptor
+Lama4_Sv2b		Lama4	Sv2b					KEGG:rno04512	ECM-Receptor
+Lama4_Sv2a		Lama4	Sv2a					KEGG:rno04512	ECM-Receptor
+Lama4_Sv2c		Lama4	Sv2c					KEGG:rno04512	ECM-Receptor
+Lamc3_Sv2b		Lamc3	Sv2b					KEGG:rno04512	ECM-Receptor
+Lamc3_Sv2a		Lamc3	Sv2a					KEGG:rno04512	ECM-Receptor
+Lamc3_Sv2c		Lamc3	Sv2c					KEGG:rno04512	ECM-Receptor
+Lama1_Sv2b		Lama1	Sv2b					KEGG:rno04512	ECM-Receptor
+Lama1_Sv2a		Lama1	Sv2a					KEGG:rno04512	ECM-Receptor
+Lama1_Sv2c		Lama1	Sv2c					KEGG:rno04512	ECM-Receptor
+Comp_Cd36-ps1		Comp	Cd36-ps1					KEGG:rno04512	ECM-Receptor
+Comp_LOC134486712		Comp	LOC134486712					KEGG:rno04512	ECM-Receptor
+Comp_Cd36		Comp	Cd36					KEGG:rno04512	ECM-Receptor
+Comp_Cd36l1		Comp	Cd36l1					KEGG:rno04512	ECM-Receptor
+Thbs4_Cd36-ps1		Thbs4	Cd36-ps1					KEGG:rno04512	ECM-Receptor
+Thbs4_LOC134486712		Thbs4	LOC134486712					KEGG:rno04512	ECM-Receptor
+Thbs4_Cd36		Thbs4	Cd36					KEGG:rno04512	ECM-Receptor
+Thbs4_Cd36l1		Thbs4	Cd36l1					KEGG:rno04512	ECM-Receptor
+Thbs2_Cd36-ps1		Thbs2	Cd36-ps1					KEGG:rno04512	ECM-Receptor
+Thbs2_LOC134486712		Thbs2	LOC134486712					KEGG:rno04512	ECM-Receptor
+Thbs2_Cd36		Thbs2	Cd36					KEGG:rno04512	ECM-Receptor
+Thbs2_Cd36l1		Thbs2	Cd36l1					KEGG:rno04512	ECM-Receptor
+Thbs1_Cd36-ps1		Thbs1	Cd36-ps1					KEGG:rno04512	ECM-Receptor
+Thbs1_LOC134486712		Thbs1	LOC134486712					KEGG:rno04512	ECM-Receptor
+Thbs1_Cd36		Thbs1	Cd36					KEGG:rno04512	ECM-Receptor
+Thbs1_Cd36l1		Thbs1	Cd36l1					KEGG:rno04512	ECM-Receptor
+Thbs3_Cd36-ps1		Thbs3	Cd36-ps1					KEGG:rno04512	ECM-Receptor
+Thbs3_LOC134486712		Thbs3	LOC134486712					KEGG:rno04512	ECM-Receptor
+Thbs3_Cd36		Thbs3	Cd36					KEGG:rno04512	ECM-Receptor
+Thbs3_Cd36l1		Thbs3	Cd36l1					KEGG:rno04512	ECM-Receptor
+Vwf_Gp5_Gp1ba_Gp1bb_Gp9		Vwf	Gp5_Gp1ba_Gp1bb_Gp9					KEGG:rno04512	ECM-Receptor
+Col2a1_Gp6		Col2a1	Gp6					KEGG:rno04512	ECM-Receptor
+Col4a1_Gp6		Col4a1	Gp6					KEGG:rno04512	ECM-Receptor
+Col1a1_Gp6		Col1a1	Gp6					KEGG:rno04512	ECM-Receptor
+Col6a1_Gp6		Col6a1	Gp6					KEGG:rno04512	ECM-Receptor
+Col9a1_Gp6		Col9a1	Gp6					KEGG:rno04512	ECM-Receptor
+Col4a2_Gp6		Col4a2	Gp6					KEGG:rno04512	ECM-Receptor
+Col6a6_Gp6		Col6a6	Gp6					KEGG:rno04512	ECM-Receptor
+Col6a4_Gp6		Col6a4	Gp6					KEGG:rno04512	ECM-Receptor
+Col6a2_Gp6		Col6a2	Gp6					KEGG:rno04512	ECM-Receptor
+Col9a3_Gp6		Col9a3	Gp6					KEGG:rno04512	ECM-Receptor
+Col9a2_Gp6		Col9a2	Gp6					KEGG:rno04512	ECM-Receptor
+Col4a3_Gp6		Col4a3	Gp6					KEGG:rno04512	ECM-Receptor
+Col4a5_Gp6		Col4a5	Gp6					KEGG:rno04512	ECM-Receptor
+Col4a6_Gp6		Col4a6	Gp6					KEGG:rno04512	ECM-Receptor
+Col6a3_Gp6		Col6a3	Gp6					KEGG:rno04512	ECM-Receptor
+Col6a5_Gp6		Col6a5	Gp6					KEGG:rno04512	ECM-Receptor
+Col1a2_Gp6		Col1a2	Gp6					KEGG:rno04512	ECM-Receptor
+Lamc1_Dag1_Dag1		Lamc1	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lama5_Dag1_Dag1		Lama5	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lamc2_Dag1_Dag1		Lamc2	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lamb2_Dag1_Dag1		Lamb2	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lamb1_Dag1_Dag1		Lamb1	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lamb3_Dag1_Dag1		Lamb3	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lama2_Dag1_Dag1		Lama2	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lama4_Dag1_Dag1		Lama4	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lamc3_Dag1_Dag1		Lamc3	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Lama1_Dag1_Dag1		Lama1	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Agrn_Dag1_Dag1		Agrn	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Hspg2_Dag1_Dag1		Hspg2	Dag1_Dag1					KEGG:rno04512	ECM-Receptor
+Comp_Cd47		Comp	Cd47					KEGG:rno04512	ECM-Receptor
+Thbs4_Cd47		Thbs4	Cd47					KEGG:rno04512	ECM-Receptor
+Thbs2_Cd47		Thbs2	Cd47					KEGG:rno04512	ECM-Receptor
+Thbs1_Cd47		Thbs1	Cd47					KEGG:rno04512	ECM-Receptor
+Thbs3_Cd47		Thbs3	Cd47					KEGG:rno04512	ECM-Receptor
+Dspp_Itgb6_Itgav		Dspp	Itgb6_Itgav					KEGG:rno04512	ECM-Receptor
+Dspp_Itgb1_Itgav		Dspp	Itgb1_Itgav					KEGG:rno04512	ECM-Receptor
+Dmp1_Itgav_Itgb3		Dmp1	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Mepe_Itgav_Itgb3		Mepe	Itgav_Itgb3					KEGG:rno04512	ECM-Receptor
+Cd80_Cd28		Cd80	Cd28					KEGG:rno04514	Cell-Cell Contact
+Cd80_Ctla4		Cd80	Ctla4					KEGG:rno04514	Cell-Cell Contact
+Cd86_Cd28		Cd86	Cd28					KEGG:rno04514	Cell-Cell Contact
+Cd86_Ctla4		Cd86	Ctla4					KEGG:rno04514	Cell-Cell Contact
+RT1-Db2_Cd4		RT1-Db2	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-DOa_Cd4		RT1-DOa	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-Ha_Cd4		RT1-Ha	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-Da_Cd4		RT1-Da	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-Db1_Cd4		RT1-Db1	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-DMb_Cd4		RT1-DMb	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-DMa_Cd4		RT1-DMa	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-Ba_Cd4		RT1-Ba	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-Bb_Cd4		RT1-Bb	Cd4					KEGG:rno04514	Cell-Cell Contact
+RT1-DOb_Cd4		RT1-DOb	Cd4					KEGG:rno04514	Cell-Cell Contact
+H2-M10.6l_Cd8a		H2-M10.6l	Cd8a					KEGG:rno04514	Cell-Cell Contact
+H2-M10.6l_Cd8b		H2-M10.6l	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M3-1_Cd8a		RT1-M3-1	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M3-1_Cd8b		RT1-M3-1	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-N3_Cd8a		RT1-N3	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-N3_Cd8b		RT1-N3	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-O1_Cd8a		RT1-O1	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-O1_Cd8b		RT1-O1	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-A1_Cd8a		RT1-A1	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-A1_Cd8b		RT1-A1	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-A2_Cd8a		RT1-A2	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-A2_Cd8b		RT1-A2	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M2_Cd8a		RT1-M2	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M2_Cd8b		RT1-M2	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M1-4_Cd8a		RT1-M1-4	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M1-4_Cd8b		RT1-M1-4	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-S3_Cd8a		RT1-S3	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-S3_Cd8b		RT1-S3	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M4_Cd8a		RT1-M4	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M4_Cd8b		RT1-M4	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE12_Cd8a		RT1-CE12	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE12_Cd8b		RT1-CE12	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE1_Cd8a		RT1-CE1	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE1_Cd8b		RT1-CE1	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE5_Cd8a		RT1-CE5	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE5_Cd8b		RT1-CE5	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-A3_Cd8a		RT1-A3	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-A3_Cd8b		RT1-A3	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-N2_Cd8a		RT1-N2	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-N2_Cd8b		RT1-N2	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-T24-1_Cd8a		RT1-T24-1	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-T24-1_Cd8b		RT1-T24-1	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M6-2_Cd8a		RT1-M6-2	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M6-2_Cd8b		RT1-M6-2	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE7_Cd8a		RT1-CE7	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE7_Cd8b		RT1-CE7	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-T18_Cd8a		RT1-T18	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-T18_Cd8b		RT1-T18	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE2_Cd8a		RT1-CE2	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE2_Cd8b		RT1-CE2	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE4_Cd8a		RT1-CE4	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE4_Cd8b		RT1-CE4	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-T24-4_Cd8a		RT1-T24-4	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-T24-4_Cd8b		RT1-T24-4	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M6-1_Cd8a		RT1-M6-1	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M6-1_Cd8b		RT1-M6-1	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M1-2_Cd8a		RT1-M1-2	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M1-2_Cd8b		RT1-M1-2	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-T24-3_Cd8a		RT1-T24-3	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-T24-3_Cd8b		RT1-T24-3	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE15_Cd8a		RT1-CE15	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE15_Cd8b		RT1-CE15	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE13_Cd8a		RT1-CE13	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE13_Cd8b		RT1-CE13	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE11_Cd8a		RT1-CE11	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE11_Cd8b		RT1-CE11	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE10_Cd8a		RT1-CE10	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE10_Cd8b		RT1-CE10	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE3_Cd8a		RT1-CE3	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE3_Cd8b		RT1-CE3	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-CE16_Cd8a		RT1-CE16	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-CE16_Cd8b		RT1-CE16	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M5_Cd8a		RT1-M5	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M5_Cd8b		RT1-M5	Cd8b					KEGG:rno04514	Cell-Cell Contact
+RT1-M1-5_Cd8a		RT1-M1-5	Cd8a					KEGG:rno04514	Cell-Cell Contact
+RT1-M1-5_Cd8b		RT1-M1-5	Cd8b					KEGG:rno04514	Cell-Cell Contact
+Cd274_Pdcd1		Cd274	Pdcd1					KEGG:rno04514	Cell-Cell Contact
+Pdcd1lg2_Pdcd1		Pdcd1lg2	Pdcd1					KEGG:rno04514	Cell-Cell Contact
+Icoslg_Icos		Icoslg	Icos					KEGG:rno04514	Cell-Cell Contact
+Cd40lg_Cd40		Cd40lg	Cd40					KEGG:rno04514	Cell-Cell Contact
+Itgb2_Itgal_Cd226		Itgb2_Itgal	Cd226					KEGG:rno04514	Cell-Cell Contact
+Itgb2_Itgal_Icam1		Itgb2_Itgal	Icam1					KEGG:rno04514	Cell-Cell Contact
+Itgb2_Itgal_Icam2		Itgb2_Itgal	Icam2					KEGG:rno04514	Cell-Cell Contact
+Icam1_Itgb2_Itgal		Icam1	Itgb2_Itgal					KEGG:rno04514	Cell-Cell Contact
+Icam2_Itgb2_Itgal		Icam2	Itgb2_Itgal					KEGG:rno04514	Cell-Cell Contact
+Cd28_Cd80		Cd28	Cd80					KEGG:rno04514	Cell-Cell Contact
+Itgal_Itgb2_Icam1		Itgal_Itgb2	Icam1					KEGG:rno04514	Cell-Cell Contact
+Itgam_Itgb2_Icam1		Itgam_Itgb2	Icam1					KEGG:rno04514	Cell-Cell Contact
+Itga4_Itgb1_Vcam1		Itga4_Itgb1	Vcam1					KEGG:rno04514	Cell-Cell Contact
+Itga9_Itgb1_Vcam1		Itga9_Itgb1	Vcam1					KEGG:rno04514	Cell-Cell Contact
+Selplg_Selp		Selplg	Selp					KEGG:rno04514	Cell-Cell Contact
+Selplg_Sele		Selplg	Sele					KEGG:rno04514	Cell-Cell Contact
+Pecam1_Pecam1		Pecam1	Pecam1					KEGG:rno04514	Cell-Cell Contact
+Pvr_Cd226		Pvr	Cd226					KEGG:rno04514	Cell-Cell Contact
+Nectin2_Cd226		Nectin2	Cd226					KEGG:rno04514	Cell-Cell Contact
+Cdh2_Cdh2		Cdh2	Cdh2					KEGG:rno04514	Cell-Cell Contact
+Nrxn3_Nlgn1		Nrxn3	Nlgn1					KEGG:rno04514	Cell-Cell Contact
+Nrxn3_Nlgn2		Nrxn3	Nlgn2					KEGG:rno04514	Cell-Cell Contact
+Nrxn3_Nlgn3		Nrxn3	Nlgn3					KEGG:rno04514	Cell-Cell Contact
+Nrxn2_Nlgn1		Nrxn2	Nlgn1					KEGG:rno04514	Cell-Cell Contact
+Nrxn2_Nlgn2		Nrxn2	Nlgn2					KEGG:rno04514	Cell-Cell Contact
+Nrxn2_Nlgn3		Nrxn2	Nlgn3					KEGG:rno04514	Cell-Cell Contact
+Nrxn1_Nlgn1		Nrxn1	Nlgn1					KEGG:rno04514	Cell-Cell Contact
+Nrxn1_Nlgn2		Nrxn1	Nlgn2					KEGG:rno04514	Cell-Cell Contact
+Nrxn1_Nlgn3		Nrxn1	Nlgn3					KEGG:rno04514	Cell-Cell Contact
+Cntn1_Nrcam		Cntn1	Nrcam					KEGG:rno04514	Cell-Cell Contact
+Ncam1_Ncam1		Ncam1	Ncam1					KEGG:rno04514	Cell-Cell Contact
+Ncam1_Ncam2		Ncam1	Ncam2					KEGG:rno04514	Cell-Cell Contact
+Ncam2_Ncam1		Ncam2	Ncam1					KEGG:rno04514	Cell-Cell Contact
+Ncam2_Ncam2		Ncam2	Ncam2					KEGG:rno04514	Cell-Cell Contact
+L1cam_L1cam		L1cam	L1cam					KEGG:rno04514	Cell-Cell Contact
+Nectin1_Nectin1		Nectin1	Nectin1					KEGG:rno04514	Cell-Cell Contact
+Cdh1_Cdh1		Cdh1	Cdh1					KEGG:rno04514	Cell-Cell Contact
+Cdh4_Cdh4		Cdh4	Cdh4					KEGG:rno04514	Cell-Cell Contact
+Alcam_Cd6		Alcam	Cd6					KEGG:rno04514	Cell-Cell Contact
+Ptprc_Cd22		Ptprc	Cd22					KEGG:rno04514	Cell-Cell Contact
+Spn_Siglec1		Spn	Siglec1					KEGG:rno04514	Cell-Cell Contact
+Spnl1_Siglec1		Spnl1	Siglec1					KEGG:rno04514	Cell-Cell Contact
+Cd40_Cd40lg		Cd40	Cd40lg					KEGG:rno04514	Cell-Cell Contact
+Icam1_Itgal_Itgb2		Icam1	Itgal_Itgb2					KEGG:rno04514	Cell-Cell Contact
+Icam2_Itgal_Itgb2		Icam2	Itgal_Itgb2					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn25		Cldn25	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn34c4		Cldn25	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn16		Cldn25	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn6		Cldn25	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn9		Cldn25	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn10		Cldn25	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn23		Cldn25	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn19		Cldn25	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn2		Cldn25	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn14		Cldn25	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn8		Cldn25	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn17		Cldn25	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn15		Cldn25	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn4		Cldn25	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn22		Cldn25	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn18		Cldn25	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn12		Cldn25	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn24		Cldn25	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn1		Cldn25	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn3		Cldn25	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn5		Cldn25	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn7		Cldn25	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn20		Cldn25	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn34d		Cldn25	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn34e		Cldn25	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn25_Cldn11		Cldn25	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn25		Cldn34c4	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn34c4		Cldn34c4	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn16		Cldn34c4	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn6		Cldn34c4	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn9		Cldn34c4	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn10		Cldn34c4	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn23		Cldn34c4	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn19		Cldn34c4	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn2		Cldn34c4	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn14		Cldn34c4	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn8		Cldn34c4	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn17		Cldn34c4	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn15		Cldn34c4	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn4		Cldn34c4	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn22		Cldn34c4	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn18		Cldn34c4	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn12		Cldn34c4	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn24		Cldn34c4	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn1		Cldn34c4	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn3		Cldn34c4	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn5		Cldn34c4	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn7		Cldn34c4	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn20		Cldn34c4	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn34d		Cldn34c4	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn34e		Cldn34c4	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn34c4_Cldn11		Cldn34c4	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn25		Cldn16	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn34c4		Cldn16	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn16		Cldn16	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn6		Cldn16	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn9		Cldn16	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn10		Cldn16	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn23		Cldn16	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn19		Cldn16	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn2		Cldn16	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn14		Cldn16	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn8		Cldn16	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn17		Cldn16	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn15		Cldn16	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn4		Cldn16	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn22		Cldn16	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn18		Cldn16	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn12		Cldn16	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn24		Cldn16	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn1		Cldn16	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn3		Cldn16	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn5		Cldn16	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn7		Cldn16	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn20		Cldn16	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn34d		Cldn16	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn34e		Cldn16	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn16_Cldn11		Cldn16	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn25		Cldn6	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn34c4		Cldn6	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn16		Cldn6	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn6		Cldn6	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn9		Cldn6	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn10		Cldn6	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn23		Cldn6	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn19		Cldn6	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn2		Cldn6	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn14		Cldn6	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn8		Cldn6	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn17		Cldn6	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn15		Cldn6	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn4		Cldn6	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn22		Cldn6	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn18		Cldn6	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn12		Cldn6	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn24		Cldn6	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn1		Cldn6	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn3		Cldn6	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn5		Cldn6	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn7		Cldn6	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn20		Cldn6	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn34d		Cldn6	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn34e		Cldn6	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn6_Cldn11		Cldn6	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn25		Cldn9	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn34c4		Cldn9	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn16		Cldn9	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn6		Cldn9	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn9		Cldn9	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn10		Cldn9	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn23		Cldn9	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn19		Cldn9	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn2		Cldn9	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn14		Cldn9	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn8		Cldn9	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn17		Cldn9	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn15		Cldn9	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn4		Cldn9	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn22		Cldn9	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn18		Cldn9	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn12		Cldn9	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn24		Cldn9	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn1		Cldn9	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn3		Cldn9	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn5		Cldn9	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn7		Cldn9	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn20		Cldn9	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn34d		Cldn9	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn34e		Cldn9	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn9_Cldn11		Cldn9	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn25		Cldn10	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn34c4		Cldn10	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn16		Cldn10	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn6		Cldn10	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn9		Cldn10	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn10		Cldn10	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn23		Cldn10	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn19		Cldn10	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn2		Cldn10	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn14		Cldn10	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn8		Cldn10	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn17		Cldn10	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn15		Cldn10	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn4		Cldn10	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn22		Cldn10	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn18		Cldn10	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn12		Cldn10	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn24		Cldn10	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn1		Cldn10	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn3		Cldn10	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn5		Cldn10	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn7		Cldn10	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn20		Cldn10	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn34d		Cldn10	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn34e		Cldn10	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn10_Cldn11		Cldn10	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn25		Cldn23	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn34c4		Cldn23	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn16		Cldn23	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn6		Cldn23	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn9		Cldn23	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn10		Cldn23	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn23		Cldn23	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn19		Cldn23	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn2		Cldn23	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn14		Cldn23	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn8		Cldn23	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn17		Cldn23	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn15		Cldn23	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn4		Cldn23	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn22		Cldn23	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn18		Cldn23	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn12		Cldn23	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn24		Cldn23	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn1		Cldn23	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn3		Cldn23	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn5		Cldn23	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn7		Cldn23	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn20		Cldn23	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn34d		Cldn23	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn34e		Cldn23	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn23_Cldn11		Cldn23	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn25		Cldn19	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn34c4		Cldn19	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn16		Cldn19	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn6		Cldn19	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn9		Cldn19	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn10		Cldn19	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn23		Cldn19	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn19		Cldn19	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn2		Cldn19	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn14		Cldn19	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn8		Cldn19	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn17		Cldn19	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn15		Cldn19	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn4		Cldn19	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn22		Cldn19	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn18		Cldn19	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn12		Cldn19	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn24		Cldn19	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn1		Cldn19	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn3		Cldn19	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn5		Cldn19	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn7		Cldn19	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn20		Cldn19	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn34d		Cldn19	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn34e		Cldn19	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn19_Cldn11		Cldn19	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn25		Cldn2	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn34c4		Cldn2	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn16		Cldn2	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn6		Cldn2	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn9		Cldn2	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn10		Cldn2	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn23		Cldn2	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn19		Cldn2	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn2		Cldn2	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn14		Cldn2	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn8		Cldn2	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn17		Cldn2	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn15		Cldn2	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn4		Cldn2	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn22		Cldn2	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn18		Cldn2	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn12		Cldn2	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn24		Cldn2	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn1		Cldn2	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn3		Cldn2	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn5		Cldn2	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn7		Cldn2	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn20		Cldn2	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn34d		Cldn2	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn34e		Cldn2	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn2_Cldn11		Cldn2	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn25		Cldn14	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn34c4		Cldn14	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn16		Cldn14	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn6		Cldn14	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn9		Cldn14	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn10		Cldn14	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn23		Cldn14	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn19		Cldn14	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn2		Cldn14	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn14		Cldn14	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn8		Cldn14	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn17		Cldn14	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn15		Cldn14	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn4		Cldn14	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn22		Cldn14	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn18		Cldn14	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn12		Cldn14	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn24		Cldn14	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn1		Cldn14	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn3		Cldn14	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn5		Cldn14	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn7		Cldn14	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn20		Cldn14	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn34d		Cldn14	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn34e		Cldn14	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn14_Cldn11		Cldn14	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn25		Cldn8	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn34c4		Cldn8	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn16		Cldn8	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn6		Cldn8	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn9		Cldn8	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn10		Cldn8	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn23		Cldn8	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn19		Cldn8	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn2		Cldn8	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn14		Cldn8	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn8		Cldn8	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn17		Cldn8	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn15		Cldn8	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn4		Cldn8	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn22		Cldn8	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn18		Cldn8	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn12		Cldn8	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn24		Cldn8	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn1		Cldn8	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn3		Cldn8	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn5		Cldn8	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn7		Cldn8	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn20		Cldn8	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn34d		Cldn8	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn34e		Cldn8	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn8_Cldn11		Cldn8	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn25		Cldn17	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn34c4		Cldn17	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn16		Cldn17	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn6		Cldn17	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn9		Cldn17	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn10		Cldn17	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn23		Cldn17	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn19		Cldn17	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn2		Cldn17	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn14		Cldn17	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn8		Cldn17	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn17		Cldn17	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn15		Cldn17	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn4		Cldn17	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn22		Cldn17	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn18		Cldn17	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn12		Cldn17	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn24		Cldn17	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn1		Cldn17	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn3		Cldn17	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn5		Cldn17	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn7		Cldn17	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn20		Cldn17	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn34d		Cldn17	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn34e		Cldn17	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn17_Cldn11		Cldn17	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn25		Cldn15	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn34c4		Cldn15	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn16		Cldn15	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn6		Cldn15	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn9		Cldn15	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn10		Cldn15	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn23		Cldn15	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn19		Cldn15	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn2		Cldn15	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn14		Cldn15	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn8		Cldn15	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn17		Cldn15	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn15		Cldn15	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn4		Cldn15	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn22		Cldn15	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn18		Cldn15	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn12		Cldn15	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn24		Cldn15	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn1		Cldn15	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn3		Cldn15	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn5		Cldn15	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn7		Cldn15	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn20		Cldn15	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn34d		Cldn15	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn34e		Cldn15	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn15_Cldn11		Cldn15	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn25		Cldn4	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn34c4		Cldn4	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn16		Cldn4	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn6		Cldn4	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn9		Cldn4	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn10		Cldn4	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn23		Cldn4	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn19		Cldn4	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn2		Cldn4	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn14		Cldn4	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn8		Cldn4	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn17		Cldn4	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn15		Cldn4	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn4		Cldn4	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn22		Cldn4	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn18		Cldn4	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn12		Cldn4	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn24		Cldn4	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn1		Cldn4	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn3		Cldn4	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn5		Cldn4	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn7		Cldn4	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn20		Cldn4	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn34d		Cldn4	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn34e		Cldn4	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn4_Cldn11		Cldn4	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn25		Cldn22	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn34c4		Cldn22	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn16		Cldn22	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn6		Cldn22	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn9		Cldn22	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn10		Cldn22	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn23		Cldn22	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn19		Cldn22	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn2		Cldn22	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn14		Cldn22	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn8		Cldn22	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn17		Cldn22	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn15		Cldn22	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn4		Cldn22	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn22		Cldn22	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn18		Cldn22	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn12		Cldn22	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn24		Cldn22	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn1		Cldn22	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn3		Cldn22	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn5		Cldn22	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn7		Cldn22	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn20		Cldn22	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn34d		Cldn22	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn34e		Cldn22	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn22_Cldn11		Cldn22	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn25		Cldn18	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn34c4		Cldn18	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn16		Cldn18	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn6		Cldn18	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn9		Cldn18	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn10		Cldn18	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn23		Cldn18	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn19		Cldn18	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn2		Cldn18	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn14		Cldn18	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn8		Cldn18	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn17		Cldn18	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn15		Cldn18	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn4		Cldn18	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn22		Cldn18	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn18		Cldn18	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn12		Cldn18	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn24		Cldn18	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn1		Cldn18	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn3		Cldn18	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn5		Cldn18	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn7		Cldn18	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn20		Cldn18	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn34d		Cldn18	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn34e		Cldn18	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn18_Cldn11		Cldn18	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn25		Cldn12	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn34c4		Cldn12	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn16		Cldn12	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn6		Cldn12	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn9		Cldn12	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn10		Cldn12	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn23		Cldn12	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn19		Cldn12	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn2		Cldn12	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn14		Cldn12	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn8		Cldn12	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn17		Cldn12	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn15		Cldn12	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn4		Cldn12	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn22		Cldn12	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn18		Cldn12	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn12		Cldn12	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn24		Cldn12	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn1		Cldn12	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn3		Cldn12	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn5		Cldn12	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn7		Cldn12	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn20		Cldn12	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn34d		Cldn12	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn34e		Cldn12	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn12_Cldn11		Cldn12	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn25		Cldn24	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn34c4		Cldn24	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn16		Cldn24	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn6		Cldn24	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn9		Cldn24	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn10		Cldn24	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn23		Cldn24	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn19		Cldn24	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn2		Cldn24	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn14		Cldn24	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn8		Cldn24	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn17		Cldn24	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn15		Cldn24	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn4		Cldn24	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn22		Cldn24	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn18		Cldn24	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn12		Cldn24	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn24		Cldn24	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn1		Cldn24	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn3		Cldn24	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn5		Cldn24	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn7		Cldn24	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn20		Cldn24	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn34d		Cldn24	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn34e		Cldn24	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn24_Cldn11		Cldn24	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn25		Cldn1	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn34c4		Cldn1	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn16		Cldn1	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn6		Cldn1	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn9		Cldn1	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn10		Cldn1	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn23		Cldn1	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn19		Cldn1	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn2		Cldn1	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn14		Cldn1	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn8		Cldn1	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn17		Cldn1	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn15		Cldn1	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn4		Cldn1	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn22		Cldn1	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn18		Cldn1	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn12		Cldn1	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn24		Cldn1	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn1		Cldn1	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn3		Cldn1	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn5		Cldn1	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn7		Cldn1	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn20		Cldn1	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn34d		Cldn1	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn34e		Cldn1	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn1_Cldn11		Cldn1	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn25		Cldn3	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn34c4		Cldn3	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn16		Cldn3	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn6		Cldn3	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn9		Cldn3	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn10		Cldn3	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn23		Cldn3	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn19		Cldn3	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn2		Cldn3	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn14		Cldn3	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn8		Cldn3	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn17		Cldn3	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn15		Cldn3	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn4		Cldn3	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn22		Cldn3	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn18		Cldn3	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn12		Cldn3	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn24		Cldn3	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn1		Cldn3	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn3		Cldn3	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn5		Cldn3	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn7		Cldn3	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn20		Cldn3	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn34d		Cldn3	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn34e		Cldn3	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn3_Cldn11		Cldn3	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn25		Cldn5	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn34c4		Cldn5	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn16		Cldn5	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn6		Cldn5	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn9		Cldn5	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn10		Cldn5	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn23		Cldn5	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn19		Cldn5	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn2		Cldn5	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn14		Cldn5	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn8		Cldn5	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn17		Cldn5	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn15		Cldn5	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn4		Cldn5	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn22		Cldn5	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn18		Cldn5	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn12		Cldn5	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn24		Cldn5	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn1		Cldn5	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn3		Cldn5	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn5		Cldn5	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn7		Cldn5	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn20		Cldn5	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn34d		Cldn5	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn34e		Cldn5	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn5_Cldn11		Cldn5	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn25		Cldn7	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn34c4		Cldn7	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn16		Cldn7	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn6		Cldn7	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn9		Cldn7	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn10		Cldn7	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn23		Cldn7	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn19		Cldn7	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn2		Cldn7	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn14		Cldn7	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn8		Cldn7	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn17		Cldn7	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn15		Cldn7	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn4		Cldn7	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn22		Cldn7	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn18		Cldn7	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn12		Cldn7	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn24		Cldn7	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn1		Cldn7	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn3		Cldn7	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn5		Cldn7	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn7		Cldn7	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn20		Cldn7	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn34d		Cldn7	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn34e		Cldn7	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn7_Cldn11		Cldn7	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn25		Cldn20	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn34c4		Cldn20	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn16		Cldn20	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn6		Cldn20	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn9		Cldn20	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn10		Cldn20	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn23		Cldn20	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn19		Cldn20	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn2		Cldn20	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn14		Cldn20	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn8		Cldn20	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn17		Cldn20	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn15		Cldn20	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn4		Cldn20	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn22		Cldn20	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn18		Cldn20	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn12		Cldn20	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn24		Cldn20	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn1		Cldn20	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn3		Cldn20	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn5		Cldn20	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn7		Cldn20	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn20		Cldn20	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn34d		Cldn20	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn34e		Cldn20	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn20_Cldn11		Cldn20	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn25		Cldn34d	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn34c4		Cldn34d	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn16		Cldn34d	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn6		Cldn34d	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn9		Cldn34d	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn10		Cldn34d	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn23		Cldn34d	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn19		Cldn34d	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn2		Cldn34d	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn14		Cldn34d	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn8		Cldn34d	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn17		Cldn34d	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn15		Cldn34d	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn4		Cldn34d	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn22		Cldn34d	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn18		Cldn34d	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn12		Cldn34d	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn24		Cldn34d	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn1		Cldn34d	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn3		Cldn34d	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn5		Cldn34d	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn7		Cldn34d	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn20		Cldn34d	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn34d		Cldn34d	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn34e		Cldn34d	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn34d_Cldn11		Cldn34d	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn25		Cldn34e	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn34c4		Cldn34e	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn16		Cldn34e	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn6		Cldn34e	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn9		Cldn34e	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn10		Cldn34e	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn23		Cldn34e	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn19		Cldn34e	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn2		Cldn34e	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn14		Cldn34e	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn8		Cldn34e	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn17		Cldn34e	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn15		Cldn34e	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn4		Cldn34e	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn22		Cldn34e	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn18		Cldn34e	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn12		Cldn34e	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn24		Cldn34e	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn1		Cldn34e	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn3		Cldn34e	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn5		Cldn34e	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn7		Cldn34e	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn20		Cldn34e	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn34d		Cldn34e	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn34e		Cldn34e	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn34e_Cldn11		Cldn34e	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn25		Cldn11	Cldn25					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn34c4		Cldn11	Cldn34c4					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn16		Cldn11	Cldn16					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn6		Cldn11	Cldn6					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn9		Cldn11	Cldn9					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn10		Cldn11	Cldn10					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn23		Cldn11	Cldn23					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn19		Cldn11	Cldn19					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn2		Cldn11	Cldn2					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn14		Cldn11	Cldn14					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn8		Cldn11	Cldn8					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn17		Cldn11	Cldn17					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn15		Cldn11	Cldn15					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn4		Cldn11	Cldn4					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn22		Cldn11	Cldn22					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn18		Cldn11	Cldn18					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn12		Cldn11	Cldn12					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn24		Cldn11	Cldn24					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn1		Cldn11	Cldn1					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn3		Cldn11	Cldn3					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn5		Cldn11	Cldn5					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn7		Cldn11	Cldn7					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn20		Cldn11	Cldn20					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn34d		Cldn11	Cldn34d					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn34e		Cldn11	Cldn34e					KEGG:rno04514	Cell-Cell Contact
+Cldn11_Cldn11		Cldn11	Cldn11					KEGG:rno04514	Cell-Cell Contact
+Ocln_Ocln		Ocln	Ocln					KEGG:rno04514	Cell-Cell Contact
+F11r_F11r		F11r	F11r					KEGG:rno04514	Cell-Cell Contact
+Jam2_Jam2		Jam2	Jam2					KEGG:rno04514	Cell-Cell Contact
+Jam3_Jam2		Jam3	Jam2					KEGG:rno04514	Cell-Cell Contact
+Jam2_Jam3		Jam2	Jam3					KEGG:rno04514	Cell-Cell Contact
+Jam3_Jam3		Jam3	Jam3					KEGG:rno04514	Cell-Cell Contact
+Esam_Esam		Esam	Esam					KEGG:rno04514	Cell-Cell Contact
+Cdh5_Cdh5		Cdh5	Cdh5					KEGG:rno04514	Cell-Cell Contact
+Cd99l3_Cd99l3		Cd99l3	Cd99l3					KEGG:rno04514	Cell-Cell Contact
+Cd99l3_Cd99		Cd99l3	Cd99					KEGG:rno04514	Cell-Cell Contact
+Cd99_Cd99l3		Cd99	Cd99l3					KEGG:rno04514	Cell-Cell Contact
+Cd99_Cd99		Cd99	Cd99					KEGG:rno04514	Cell-Cell Contact
+Jam3_Itgam_Itgb2		Jam3	Itgam_Itgb2					KEGG:rno04514	Cell-Cell Contact
+Selp_Selplg		Selp	Selplg					KEGG:rno04514	Cell-Cell Contact
+F11r_Itgal_Itgb2		F11r	Itgal_Itgb2					KEGG:rno04514	Cell-Cell Contact
+Icam2_Itgam_Itgb2		Icam2	Itgam_Itgb2					KEGG:rno04514	Cell-Cell Contact
+Jam2_Itga4_Itgb1		Jam2	Itga4_Itgb1					KEGG:rno04514	Cell-Cell Contact
+Vcam1_Itga4_Itgb7		Vcam1	Itga4_Itgb7					KEGG:rno04514	Cell-Cell Contact
+Madcam1_Itga4_Itgb7		Madcam1	Itga4_Itgb7					KEGG:rno04514	Cell-Cell Contact
+Sell_Madcam1		Sell	Madcam1					KEGG:rno04514	Cell-Cell Contact
+Glycam1_Sell		Glycam1	Sell					KEGG:rno04514	Cell-Cell Contact
+Cd34_Sell		Cd34	Sell					KEGG:rno04514	Cell-Cell Contact
+Sele_Glg1		Sele	Glg1					KEGG:rno04514	Cell-Cell Contact
+Nectin3_Nectin1		Nectin3	Nectin1					KEGG:rno04514	Cell-Cell Contact
+L1cam_Ncam1		L1cam	Ncam1					KEGG:rno04514	Cell-Cell Contact
+L1cam_Ncam2		L1cam	Ncam2					KEGG:rno04514	Cell-Cell Contact
+Cadm1_Cadm1		Cadm1	Cadm1					KEGG:rno04514	Cell-Cell Contact
+Negr1_Negr1		Negr1	Negr1					KEGG:rno04514	Cell-Cell Contact
+Cadm3_Cadm3		Cadm3	Cadm3					KEGG:rno04514	Cell-Cell Contact
+Ptprm_Ptprm		Ptprm	Ptprm					KEGG:rno04514	Cell-Cell Contact
+Cntn2_Cntn2		Cntn2	Cntn2					KEGG:rno04514	Cell-Cell Contact
+Cntn2_L1cam		Cntn2	L1cam					KEGG:rno04514	Cell-Cell Contact
+Nfasc_Cntn1_Cntnap1		Nfasc	Cntn1_Cntnap1					KEGG:rno04514	Cell-Cell Contact
+Cntn2_Cntnap2_Cntn2		Cntn2	Cntnap2_Cntn2					KEGG:rno04514	Cell-Cell Contact
+Mpz_Mpz		Mpz	Mpz					KEGG:rno04514	Cell-Cell Contact
+Mag_Mag		Mag	Mag					KEGG:rno04514	Cell-Cell Contact
+Nfasc_Cntnap1_Cntn1		Nfasc	Cntnap1_Cntn1					KEGG:rno04514	Cell-Cell Contact
+Cntn2_Cntn2_Cntnap2		Cntn2	Cntn2_Cntnap2					KEGG:rno04514	Cell-Cell Contact
+Nectin2_Nectin3		Nectin2	Nectin3					KEGG:rno04514	Cell-Cell Contact
+Cdh3_Cdh3		Cdh3	Cdh3					KEGG:rno04514	Cell-Cell Contact
+Cdh15_Cdh15		Cdh15	Cdh15					KEGG:rno04514	Cell-Cell Contact
+Cd80_Cd274		Cd80	Cd274					KEGG:rno04514	Cell-Cell Contact
+Icoslg_Cd28		Icoslg	Cd28					KEGG:rno04514	Cell-Cell Contact
+Icoslg_Ctla4		Icoslg	Ctla4					KEGG:rno04514	Cell-Cell Contact
+Pvr_Tigit		Pvr	Tigit					KEGG:rno04514	Cell-Cell Contact
+Nectin2_Tigit		Nectin2	Tigit					KEGG:rno04514	Cell-Cell Contact
+Cd274_Cd80		Cd274	Cd80					KEGG:rno04514	Cell-Cell Contact
+Nectin3_Tigit		Nectin3	Tigit					KEGG:rno04514	Cell-Cell Contact
+F11r_Jam2		F11r	Jam2					KEGG:rno04514	Cell-Cell Contact
+F11r_Jam3		F11r	Jam3					KEGG:rno04514	Cell-Cell Contact
+Lrrc4c_Ntng1		Lrrc4c	Ntng1					KEGG:rno04514	Cell-Cell Contact
+Lrrc4_Ntng2		Lrrc4	Ntng2					KEGG:rno04514	Cell-Cell Contact
+Lrrc4b_Ptprf		Lrrc4b	Ptprf					KEGG:rno04514	Cell-Cell Contact
+Vsir_Igsf11		Vsir	Igsf11					KEGG:rno04514	Cell-Cell Contact
+Ptprs_Slitrk6		Ptprs	Slitrk6					KEGG:rno04514	Cell-Cell Contact
+Ptprs_Slitrk4		Ptprs	Slitrk4					KEGG:rno04514	Cell-Cell Contact
+Ptprs_Slitrk1		Ptprs	Slitrk1					KEGG:rno04514	Cell-Cell Contact
+Ptprs_Slitrk5		Ptprs	Slitrk5					KEGG:rno04514	Cell-Cell Contact
+Ptprs_Slitrk2		Ptprs	Slitrk2					KEGG:rno04514	Cell-Cell Contact
+Ptprd_Slitrk3		Ptprd	Slitrk3					KEGG:rno04514	Cell-Cell Contact
+Ins1_Insr	INSULIN	Ins1	Insr					KEGG:rno04910	Secreted Signaling
+Ins2_Insr	INSULIN	Ins2	Insr					KEGG:rno04910	Secreted Signaling
+Nrxn2_Nlgn2		Nrxn2	Nlgn2					IntAct	Secreted Signaling
+Fn1_Sdc4		Fn1	Sdc4					IntAct	Secreted Signaling
+Ucn_Crhr1		Ucn	Crhr1					IntAct	Secreted Signaling
+Nrxn1_Nlgn1		Nrxn1	Nlgn1					IntAct	Secreted Signaling
+Plg_Insr		Plg	Insr					IntAct	Secreted Signaling
+Fn1_Insr		Fn1	Insr					IntAct	Secreted Signaling
+C3_Insr		C3	Insr					IntAct	Secreted Signaling
+Cntn1_Insr		Cntn1	Insr					IntAct	Secreted Signaling
+Tgfb2_Insr		Tgfb2	Insr					IntAct	Secreted Signaling
+Col2a1_Insr		Col2a1	Insr					IntAct	Secreted Signaling
+Vtn_Insr		Vtn	Insr					IntAct	Secreted Signaling
+Nts_Ntsr1		Nts	Ntsr1					IntAct	Secreted Signaling
+Selplg_Selplg		Selplg	Selplg					reactome:R-RNO-2870225	Secreted Signaling
+Gh1_Prlr		Gh1	Prlr					reactome:R-RNO-2002375	Secreted Signaling
+Lta_Ltbr		Lta	Ltbr					reactome:R-RNO-5676545	Secreted Signaling
+Ltb_Ltbr		Ltb	Ltbr					reactome:R-RNO-5676545	Secreted Signaling
+Tnfsf4_Tnfrsf4		Tnfsf4	Tnfrsf4					reactome:R-RNO-5692317	Secreted Signaling
+Bmp10_Acvrl1		Bmp10	Acvrl1					reactome:R-RNO-8858621	Secreted Signaling
+Gdf2_Acvrl1		Gdf2	Acvrl1					reactome:R-RNO-8858621	Secreted Signaling
+Adcyap1_Adcyap1r1		Adcyap1	Adcyap1r1					reactome:R-RNO-420103	Secreted Signaling
+Amh_Amhr2		Amh	Amhr2					reactome:R-RNO-8858303	Secreted Signaling
+Avp_Avpr1a		Avp	Avpr1a					reactome:R-RNO-388502	Secreted Signaling
+Avp_Avpr2		Avp	Avpr2					reactome:R-RNO-8869176	Secreted Signaling
+Inhba_Acvr1b		Inhba	Acvr1b					reactome:R-RNO-1549493	Secreted Signaling
+Inhbb_Acvr1b		Inhbb	Acvr1b					reactome:R-RNO-1549493	Secreted Signaling
+Ghrl_Ghsr		Ghrl	Ghsr					reactome:R-RNO-947644	Secreted Signaling
+Adm2_Calcrl		Adm2	Calcrl					reactome:R-RNO-420062	Secreted Signaling
+Adm_Calcrl		Adm	Calcrl					reactome:R-RNO-420062	Secreted Signaling
+Col4a1_Itga1		Col4a1	Itga1					reactome:R-RNO-4084917	Secreted Signaling
+Grp_Grpr		Grp	Grpr					reactome:R-RNO-375359	Secreted Signaling
+Grp_Nmbr		Grp	Nmbr					reactome:R-RNO-375359	Secreted Signaling
+Nmb_Grpr		Nmb	Grpr					reactome:R-RNO-375359	Secreted Signaling
+Nmb_Nmbr		Nmb	Nmbr					reactome:R-RNO-375359	Secreted Signaling
+Ccl27_Ccr10		Ccl27	Ccr10					reactome:R-RNO-373236	Secreted Signaling
+Ccl25_Ackr4		Ccl25	Ackr4					reactome:R-RNO-443970	Secreted Signaling
+Ccl21_Ackr4		Ccl21	Ackr4					reactome:R-RNO-443970	Secreted Signaling
+Ccl19_Ackr4		Ccl19	Ackr4					reactome:R-RNO-443970	Secreted Signaling
+Ccl19_Ccr7		Ccl19	Ccr7					reactome:R-RNO-373319	Secreted Signaling
+Ccl21_Ccr7		Ccl21	Ccr7					reactome:R-RNO-373319	Secreted Signaling
+Ccl25_Ccr9		Ccl25	Ccr9					reactome:R-RNO-373329	Secreted Signaling
+Nectin2_Cd226		Nectin2	Cd226					reactome:R-RNO-198190	Secreted Signaling
+Pvr_Cd226		Pvr	Cd226					reactome:R-RNO-198197	Secreted Signaling
+Cd40_Cd40		Cd40	Cd40					reactome:R-RNO-5672850	Secreted Signaling
+Cd80_Cd80		Cd80	Cd80					reactome:R-RNO-179787	Secreted Signaling
+Cdh1_Cdh1		Cdh1	Cdh1					reactome:R-RNO-2534182	Secreted Signaling
+Cdh15_Boc		Cdh15	Boc					reactome:R-RNO-375092	Secreted Signaling
+Crh_Crhr2		Crh	Crhr2					reactome:R-RNO-8937614	Secreted Signaling
+Ucn_Crhr2		Ucn	Crhr2					reactome:R-RNO-8937614	Secreted Signaling
+Ucn3_Crhr2		Ucn3	Crhr2					reactome:R-RNO-8937629	Secreted Signaling
+Cxcl9_Cxcr3		Cxcl9	Cxcr3					reactome:R-RNO-374141	Secreted Signaling
+Cxcl11_Cxcr3		Cxcl11	Cxcr3					reactome:R-RNO-374141	Secreted Signaling
+Cxcl10_Cxcr3		Cxcl10	Cxcr3					reactome:R-RNO-374141	Secreted Signaling
+Cxcl12_Cxcr4		Cxcl12	Cxcr4					reactome:R-RNO-374203	Secreted Signaling
+Cxcl12_Ackr3		Cxcl12	Ackr3					reactome:R-RNO-374203	Secreted Signaling
+Cxcl16_Cxcr6		Cxcl16	Cxcr6					reactome:R-RNO-373797	Secreted Signaling
+Tgfb1_Tgfbr2		Tgfb1	Tgfbr2					reactome:R-RNO-170865	Secreted Signaling
+Eda_Edar		Eda	Edar					reactome:R-RNO-5674596	Secreted Signaling
+Edn1_Ednrb		Edn1	Ednrb					reactome:R-RNO-388546	Secreted Signaling
+Btc_Egfr		Btc	Egfr					reactome:R-RNO-1977956	Secreted Signaling
+Ereg_Egfr		Ereg	Egfr					reactome:R-RNO-1977956	Secreted Signaling
+Hbegf_Egfr		Hbegf	Egfr					reactome:R-RNO-1977956	Secreted Signaling
+Ccl9_Fpr2		Ccl9	Fpr2					reactome:R-RNO-416459	Secreted Signaling
+Cga_Fshr		Cga	Fshr					reactome:R-RNO-391365	Secreted Signaling
+Fshb_Fshr		Fshb	Fshr					reactome:R-RNO-391365	Secreted Signaling
+Gal_Galr1		Gal	Galr1					reactome:R-RNO-389042	Secreted Signaling
+Gal_Galr2		Gal	Galr2					reactome:R-RNO-389042	Secreted Signaling
+Gh1_Ghr		Gh1	Ghr					reactome:R-RNO-1362492	Secreted Signaling
+Gip_Gipr		Gip	Gipr					reactome:R-RNO-420229	Secreted Signaling
+Csf2_Csf2rb		Csf2	Csf2rb					reactome:R-RNO-913389	Secreted Signaling
+Hcrt_Hcrtr1		Hcrt	Hcrtr1					reactome:R-RNO-389441	Secreted Signaling
+Hcrt_Hcrtr2		Hcrt	Hcrtr2					reactome:R-RNO-389449	Secreted Signaling
+Il5_Csf2rb		Il5	Csf2rb					reactome:R-RNO-913415	Secreted Signaling
+Icoslg_Icos		Icoslg	Icos					reactome:R-RNO-388788	Secreted Signaling
+Ifnb1_Ifnar1		Ifnb1	Ifnar1					reactome:R-RNO-909703	Secreted Signaling
+Ifng_Ifngr1		Ifng	Ifngr1					reactome:R-RNO-873829	Secreted Signaling
+Ifng_Ifngr2		Ifng	Ifngr2					reactome:R-RNO-873829	Secreted Signaling
+Ifnl3_Il10rb		Ifnl3	Il10rb					reactome:R-RNO-8987146	Secreted Signaling
+Ifnl1_Ifnlr1		Ifnl1	Ifnlr1					reactome:R-RNO-8987146	Secreted Signaling
+Ifnl3_Ifnlr1		Ifnl3	Ifnlr1					reactome:R-RNO-8987146	Secreted Signaling
+Ifnl1_Il10rb		Ifnl1	Il10rb					reactome:R-RNO-8987146	Secreted Signaling
+Il10_Il10ra		Il10	Il10ra					reactome:R-RNO-449802	Secreted Signaling
+Il10_Il10rb		Il10	Il10rb					reactome:R-RNO-449832	Secreted Signaling
+Il12b_Il12rb1		Il12b	Il12rb1					reactome:R-RNO-8950227	Secreted Signaling
+Il12b_Il12rb2		Il12b	Il12rb2					reactome:R-RNO-8950227	Secreted Signaling
+Il13_Il4r		Il13	Il4r					reactome:R-RNO-6786083	Secreted Signaling
+Il15_Il15ra		Il15	Il15ra					reactome:R-RNO-8983129	Secreted Signaling
+Il20_Il20rb		Il20	Il20rb					reactome:R-RNO-8986991	Secreted Signaling
+Il20_Il20ra		Il20	Il20ra					reactome:R-RNO-8986991	Secreted Signaling
+Il20_Il22ra1		Il20	Il22ra1					reactome:R-RNO-9009224	Secreted Signaling
+Il21_Il21r		Il21	Il21r					reactome:R-RNO-9005977	Secreted Signaling
+Il22_Il22ra1		Il22	Il22ra1					reactome:R-RNO-448411	Secreted Signaling
+Il22_Il10rb		Il22	Il10rb					reactome:R-RNO-8854697	Secreted Signaling
+Il23a_Il12rb1		Il23a	Il12rb1					reactome:R-RNO-8950186	Secreted Signaling
+Il23a_Il23r		Il23a	Il23r					reactome:R-RNO-8950186	Secreted Signaling
+Il12b_Il23r		Il12b	Il23r					reactome:R-RNO-8950186	Secreted Signaling
+Il24_Il20ra		Il24	Il20ra					reactome:R-RNO-8987038	Secreted Signaling
+Il24_Il20rb		Il24	Il20rb					reactome:R-RNO-8987038	Secreted Signaling
+Il24_Il22ra1		Il24	Il22ra1					reactome:R-RNO-448735	Secreted Signaling
+Il2_Il2ra		Il2	Il2ra					reactome:R-RNO-538993	Secreted Signaling
+Il31_Il31ra		Il31	Il31ra					reactome:R-RNO-8983441	Secreted Signaling
+Ebi3_Il12rb2		Ebi3	Il12rb2					reactome:R-RNO-8983520	Secreted Signaling
+Il4_Il4r		Il4	Il4r					reactome:R-RNO-6786075	Secreted Signaling
+Il9_Il9r		Il9	Il9r					reactome:R-RNO-449785	Secreted Signaling
+Thbs1_Itga4		Thbs1	Itga4					reactome:R-RNO-265407	Secreted Signaling
+Thbs1_Itga3		Thbs1	Itga3					reactome:R-RNO-265407	Secreted Signaling
+Itga4_Itgb7		Itga4	Itgb7					reactome:R-RNO-198927	Secreted Signaling
+Itga4_Madcam1		Itga4	Madcam1					reactome:R-RNO-198925	Secreted Signaling
+Madcam1_Itga4		Madcam1	Itga4					reactome:R-RNO-198925	Secreted Signaling
+Madcam1_Itgb7		Madcam1	Itgb7					reactome:R-RNO-198925	Secreted Signaling
+Madcam1_Madcam1		Madcam1	Madcam1					reactome:R-RNO-198925	Secreted Signaling
+Lama4_Itga6		Lama4	Itga6					reactome:R-RNO-3907287	Secreted Signaling
+Tnc_Itga8		Tnc	Itga8					reactome:R-RNO-216008	Secreted Signaling
+Tnc_Itga9		Tnc	Itga9					reactome:R-RNO-216014	Secreted Signaling
+Itga9_Vcam1		Itga9	Vcam1					reactome:R-RNO-265410	Secreted Signaling
+Vcam1_Itga9		Vcam1	Itga9					reactome:R-RNO-265410	Secreted Signaling
+Cdh1_Itgb7		Cdh1	Itgb7					reactome:R-RNO-265418	Secreted Signaling
+Thbs1_Itgb3		Thbs1	Itgb3					reactome:R-RNO-349605	Secreted Signaling
+Itgb2_Itgal		Itgb2	Itgal					reactome:R-RNO-198196	Secreted Signaling
+Itgal_Itgb2		Itgal	Itgb2					reactome:R-RNO-198196	Secreted Signaling
+Tnc_Itgav		Tnc	Itgav					reactome:R-RNO-265412	Secreted Signaling
+Tnc_Itgb3		Tnc	Itgb3					reactome:R-RNO-265412	Secreted Signaling
+Itgb2_Jam3		Itgb2	Jam3					reactome:R-RNO-202765	Secreted Signaling
+Jam3_Itgb2		Jam3	Itgb2					reactome:R-RNO-202765	Secreted Signaling
+Jam2_Jam2		Jam2	Jam2					reactome:R-RNO-202780	Secreted Signaling
+Jam3_Jam2		Jam3	Jam2					reactome:R-RNO-202761	Secreted Signaling
+Jam2_Jam3		Jam2	Jam3					reactome:R-RNO-202761	Secreted Signaling
+Jam3_Jam3		Jam3	Jam3					reactome:R-RNO-202782	Secreted Signaling
+Icam2_Itgb2		Icam2	Itgb2					reactome:R-RNO-198200	Secreted Signaling
+Itgb2_Icam2		Itgb2	Icam2					reactome:R-RNO-198200	Secreted Signaling
+Icam2_Itgal		Icam2	Itgal					reactome:R-RNO-198200	Secreted Signaling
+Itgal_Icam2		Itgal	Icam2					reactome:R-RNO-198200	Secreted Signaling
+Lhb_Lhcgr		Lhb	Lhcgr					reactome:R-RNO-391367	Secreted Signaling
+Cga_Lhcgr		Cga	Lhcgr					reactome:R-RNO-391367	Secreted Signaling
+Lta_Tnfrsf1b		Lta	Tnfrsf1b					reactome:R-RNO-5675769	Secreted Signaling
+Lta_Tnfrsf14		Lta	Tnfrsf14					reactome:R-RNO-5675769	Secreted Signaling
+Wnt3a_Fzd4		Wnt3a	Fzd4					reactome:R-RNO-4641176	Secreted Signaling
+Wnt3a_Lrp6		Wnt3a	Lrp6					reactome:R-RNO-4641176	Secreted Signaling
+Nps_Npsr1		Nps	Npsr1					reactome:R-RNO-444726	Secreted Signaling
+Cadm1_Cadm1		Cadm1	Cadm1					reactome:R-RNO-420594	Secreted Signaling
+Nectin2_Nectin1		Nectin2	Nectin1					reactome:R-RNO-433730	Secreted Signaling
+Nectin1_Nectin1		Nectin1	Nectin1					reactome:R-RNO-433730	Secreted Signaling
+Nectin3_Nectin3		Nectin3	Nectin3					reactome:R-RNO-433730	Secreted Signaling
+Nectin2_Nectin3		Nectin2	Nectin3					reactome:R-RNO-433730	Secreted Signaling
+Nectin1_Nectin3		Nectin1	Nectin3					reactome:R-RNO-433730	Secreted Signaling
+Nectin3_Nectin1		Nectin3	Nectin1					reactome:R-RNO-433730	Secreted Signaling
+Cadm1_Nectin3		Cadm1	Nectin3					reactome:R-RNO-420578	Secreted Signaling
+Nectin3_Cadm1		Nectin3	Cadm1					reactome:R-RNO-420578	Secreted Signaling
+Ppy_Npy4r		Ppy	Npy4r					reactome:R-RNO-388866	Secreted Signaling
+Ppy_Npy5r		Ppy	Npy5r					reactome:R-RNO-388866	Secreted Signaling
+Npb_Npbwr1		Npb	Npbwr1					reactome:R-RNO-374779	Secreted Signaling
+Npw_Npbwr1		Npw	Npbwr1					reactome:R-RNO-374779	Secreted Signaling
+Oxt_Oxtr		Oxt	Oxtr					reactome:R-RNO-388495	Secreted Signaling
+Penk_Oprd1		Penk	Oprd1					reactome:R-RNO-374302	Secreted Signaling
+Penk_Oprk1		Penk	Oprk1					reactome:R-RNO-374302	Secreted Signaling
+Pdcd1lg2_Pdcd1		Pdcd1lg2	Pdcd1					reactome:R-RNO-388800	Secreted Signaling
+Cd274_Pdcd1		Cd274	Pdcd1					reactome:R-RNO-388800	Secreted Signaling
+Cd80_Ctla4		Cd80	Ctla4					reactome:R-RNO-388784	Secreted Signaling
+Cd86_Ctla4		Cd86	Ctla4					reactome:R-RNO-388784	Secreted Signaling
+Pvr_Nectin3		Pvr	Nectin3					reactome:R-RNO-420579	Secreted Signaling
+Pth_Pth1r		Pth	Pth1r					reactome:R-RNO-420503	Secreted Signaling
+Qrfp_Qrfprl		Qrfp	Qrfprl					reactome:R-RNO-389407	Secreted Signaling
+Rspo3_Lgr5		Rspo3	Lgr5					reactome:R-RNO-4641201	Secreted Signaling
+Rspo2_Lgr5		Rspo2	Lgr5					reactome:R-RNO-4641201	Secreted Signaling
+Rspo4_Lgr5		Rspo4	Lgr5					reactome:R-RNO-4641201	Secreted Signaling
+Rspo1_Lgr5		Rspo1	Lgr5					reactome:R-RNO-4641201	Secreted Signaling
+Insl3_Rxfp2		Insl3	Rxfp2					reactome:R-RNO-444892	Secreted Signaling
+Rln3_Rxfp3		Rln3	Rxfp3					reactome:R-RNO-444847	Secreted Signaling
+Sct_Sctr		Sct	Sctr					reactome:R-RNO-420082	Secreted Signaling
+Spp1_Itga9		Spp1	Itga9					reactome:R-RNO-265417	Secreted Signaling
+Spp1_Itga5		Spp1	Itga5					reactome:R-RNO-265417	Secreted Signaling
+Selplg_Esam		Selplg	Esam					reactome:R-RNO-202776	Secreted Signaling
+Esam_Selplg		Esam	Selplg					reactome:R-RNO-202776	Secreted Signaling
+Vtn_Sdc4		Vtn	Sdc4					reactome:R-RNO-2731126	Secreted Signaling
+Vtn_Sdc1		Vtn	Sdc1					reactome:R-RNO-2731126	Secreted Signaling
+Tnf_Tnfrsf1b		Tnf	Tnfrsf1b					reactome:R-RNO-5668502	Secreted Signaling
+Tnfsf18_Tnfrsf18		Tnfsf18	Tnfrsf18					reactome:R-RNO-5675928	Secreted Signaling
+Tnfsf9_Tnfrsf9		Tnfsf9	Tnfrsf9					reactome:R-RNO-8858403	Secreted Signaling
+Cdh15_Cdh15		Cdh15	Cdh15					reactome:R-RNO-448888	Secreted Signaling
+Col4a3_Itga3		Col4a3	Itga3					reactome:R-RNO-4085044	Secreted Signaling
+Col4a3_Itgb3		Col4a3	Itgb3					reactome:R-RNO-4085044	Secreted Signaling
+Col4a3_Itgav		Col4a3	Itgav					reactome:R-RNO-4085044	Secreted Signaling
+Uts2b_Uts2r		Uts2b	Uts2r					reactome:R-RNO-445119	Secreted Signaling
+Uts2_Uts2r		Uts2	Uts2r					reactome:R-RNO-445119	Secreted Signaling
+Vegfa_Itgav		Vegfa	Itgav					reactome:R-RNO-5218779	Secreted Signaling
+Vegfa_Itgb3		Vegfa	Itgb3					reactome:R-RNO-5218779	Secreted Signaling
+Vip_Vipr1		Vip	Vipr1					reactome:R-RNO-420213	Secreted Signaling
+Vip_Vipr2		Vip	Vipr2					reactome:R-RNO-420213	Secreted Signaling
+Vtn_Itgb3		Vtn	Itgb3					reactome:R-RNO-216017	Secreted Signaling
+Vtn_Itgav		Vtn	Itgav					reactome:R-RNO-216017	Secreted Signaling
+Vtn_Itgb8		Vtn	Itgb8					reactome:R-RNO-216017	Secreted Signaling
+Vtn_Itgb5		Vtn	Itgb5					reactome:R-RNO-216017	Secreted Signaling
+Wnt1_Fzd7		Wnt1	Fzd7					reactome:R-RNO-3858486	Secreted Signaling
+Wnt11_Fzd7		Wnt11	Fzd7					reactome:R-RNO-3858486	Secreted Signaling
+Wnt8a_Lrp6		Wnt8a	Lrp6					reactome:R-RNO-1458876	Secreted Signaling
+Wnt1_Lrp6		Wnt1	Lrp6					reactome:R-RNO-1458876	Secreted Signaling
+Wnt8b_Lrp6		Wnt8b	Lrp6					reactome:R-RNO-1458876	Secreted Signaling
+Tf_Tfrc		Tf	Tfrc					reactome:R-RNO-917912	Secreted Signaling
+Jam3_Itga4		Jam3	Itga4					reactome:R-RNO-202759	Secreted Signaling
+Itga4_Jam3		Itga4	Jam3					reactome:R-RNO-202759	Secreted Signaling
+Jam2_Itga4		Jam2	Itga4					reactome:R-RNO-202759	Secreted Signaling
+Itga4_Jam2		Itga4	Jam2					reactome:R-RNO-202759	Secreted Signaling
+Itga4_Vcam1		Itga4	Vcam1					reactome:R-RNO-198199	Secreted Signaling
+Vcam1_Itga4		Vcam1	Itga4					reactome:R-RNO-198199	Secreted Signaling
+Tnfsf13_Tnfrsf13b		Tnfsf13	Tnfrsf13b					reactome:R-RNO-5676562	Secreted Signaling
+Tnfsf13_Tnfrsf17		Tnfsf13	Tnfrsf17					reactome:R-RNO-5676562	Secreted Signaling
