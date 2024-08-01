@@ -26,7 +26,7 @@ Name
    Gene2Gene_IntAct.pl
 Options
   -f1      ligand_receptor_list
-  -f2      IntAct PPI XML file
+  -f2      IntAct PPI mitab file
   -o       ligand_receptor_IntAct.txt.
   -s       organism ncbi taxonid, such as rat 10116
   -h      help
